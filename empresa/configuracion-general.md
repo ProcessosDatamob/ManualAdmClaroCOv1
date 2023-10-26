@@ -13,4 +13,4 @@ Para saber cómo configurar la empresa siga los pasos descritos en esta sesión:
 * **Configuraciones de trabajo (días de la semana) -** Este campo permite al administrador definir los días de trabajo de la empresa. El sistema considera el lunes como el primer día de la semana.
 * **Otras Configuraciones - Correo electrónico de aviso -** Esta configuración activa el envío de notificaciones por correo electrónico al administrador cuando el dispositivo alcanza el 80%, 90% y 100% del perfil de consumo configurado.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
