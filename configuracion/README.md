@@ -14,4 +14,4 @@ Las opciones del menú de configuración son:
 
 ![](<../.gitbook/assets/0 (9) (1).png>)
 
-Las cuatro opciones del menú "Configuració**n**" se detallan en las siguientes subsecciones.
+Las cuatro opciones del menú "Configuración" se detallan en las siguientes subsecciones.

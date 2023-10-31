@@ -9,7 +9,7 @@ Para saber cómo administrar los dispositivos activos de la empresa, siga los pa
 2. En la parte superior de la pantalla, el sistema muestra la distribución de los dispositivos, separados por fabricantes.
 3. La lista de dispositivos se muestra en la parte inferior de la pantalla.
 4. Para localizar un dispositivo específico, escriba el nombre de usuario, IMEI o ICCID del dispositivo en el campo "Buscar".
-5. Para exportar el informe de los dispositivos, haga clic en el botón "Excel".
+5. Para exportar el reporte de los dispositivos, haga clic en el botón "Excel".
 6. Para copiar la información de los dispositivos, haga clic en el botón "Copiar".
 7. Utilice los filtros fabricante, modelo, teléfono y grupo para encontrar los dispositivos que desea listar.
 8. Ordene la lista de dispositivos por las columnas en las flechas “ ![](<../.gitbook/assets/1 (6).png>)”
@@ -29,4 +29,3 @@ Para acceder a esta pantalla, utilice los tres puntos al final de la línea de l
 Para acceder a esta pantalla, utilice los tres puntos al final de la línea de la aplicación. En esta pantalla, se puede ver todos los dispositivos que tienen la aplicación instalada.
 
 ![](../.gitbook/assets/4.png)
-

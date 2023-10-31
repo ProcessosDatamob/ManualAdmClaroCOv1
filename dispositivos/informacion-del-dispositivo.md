@@ -1,11 +1,5 @@
 # Información del Dispositivo
 
-c
-
-
-
-**Información del Dispositivo**
-
 La información del dispositivo que se muestra en la lista es:
 
 * **Usuario** - nombre del usuario registrado en el portal;
@@ -26,7 +20,7 @@ Al hacer clic en el signo ">" junto al usuario el sistema muestra más informaci
 * **Grupo -** grupo al que está asociado el dispositivo;
 * **Status-** indica el estado del dispositivo. Los estados que puede tener un dispositivo están en la siguiente tabla.
 
-<table data-header-hidden><thead><tr><th width="229"></th><th></th></tr></thead><tbody><tr><td><strong>Estado</strong></td><td><strong>Descripción</strong></td></tr><tr><td>Activo</td><td>El dispositivo está activo.</td></tr><tr><td>Desactivado</td><td>El dispositivo está desactivado.</td></tr><tr><td>Eliminado</td><td>El dispositivo ha sido eliminado. Este estado se usa en el informe de estado final cuando el dispositivo confirma la eliminación.</td></tr><tr><td>Aprovisionando</td><td>Se está aprovisionando el dispositivo. Los dispositivos recién registrados permanecen en ese estado hasta que se aplica una directiva.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="229"></th><th></th></tr></thead><tbody><tr><td><strong>Estado</strong></td><td><strong>Descripción</strong></td></tr><tr><td>Activo</td><td>El dispositivo está activo.</td></tr><tr><td>Desactivado</td><td>El dispositivo está desactivado.</td></tr><tr><td>Eliminado</td><td>El dispositivo ha sido eliminado. Este estado se usa en el reporte de estado final cuando el dispositivo confirma la eliminación.</td></tr><tr><td>Aprovisionando</td><td>Se está aprovisionando el dispositivo. Los dispositivos recién registrados permanecen en ese estado hasta que se aplica una directiva.</td></tr></tbody></table>
 
 **Opciones de administración de dispositivos**
 
@@ -57,9 +51,9 @@ El sistema mostrará la pantalla del "Historial de almacenamiento" con el histor
 
 Desplace el cursor sobre el gráfico para ver los valores en una hora específica.
 
-**Informe de no conformidad**
+**Reporte de no conformidad**
 
-Para ver las inconsistencias en la configuración asignada al dispositivo, utilice la opción "Informe de no conformidad".
+Para ver las inconsistencias en la configuración asignada al dispositivo, utilice la opción "reporte de no conformidad".
 
 ![](<../.gitbook/assets/7 (5).png>)
 
@@ -141,7 +135,7 @@ Además de poder editar los datos, se muestran más abajo en la pantalla dos lis
 
 * **Sistema operativo** - informa el nombre del sistema operativo;
 * **Número de serie** - número de serie del dispositivo;
-* **En conformida**d - es la adhesión del dispositivo a todas las configuraciones de políticas asignadas a él. Si no se ha aplicado alguna configuración, el valor de esta opción será "No". Puede acceder al "Informe de no conformidad" en los tres puntos al final de la línea del dispositivo.
+* **En conformida**d - es la adhesión del dispositivo a todas las configuraciones de políticas asignadas a él. Si no se ha aplicado alguna configuración, el valor de esta opción será "No". Puede acceder al "Reporte de no conformidad" en los tres puntos al final de la línea del dispositivo.
 * **Estado Aplica**do - estado asignado al dispositivo;
 * **Última fecha de Actualización** - fecha y hora en que se sincronizó la información del dispositivo con el portal. Esta fecha proviene de AMAPI (Google API), es decir, es la información que recopila la API de Google en el dispositivo;
 * **Fecha de sincronización de polític**as - fecha y hora de la última sincronización de políticas;

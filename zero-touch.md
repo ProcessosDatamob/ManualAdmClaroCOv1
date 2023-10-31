@@ -28,7 +28,7 @@ En este paso se definirán las configuraciones y bloqueos que se aplicarán a lo
 
 Para configurar siga los siguientes pasos:
 
-1. Acceda al Panel Zero-Touch y seleccione la opción "Configuraciones" \[[https://partner.android.com/zerotouch](https://partner.android.com/zerotouch) ]
+1. Acceda al Panel Zero-Touch y seleccione la opción "Configuraciones" \[[https://partner.android.com/zerotouch](https://partner.android.com/zerotouch)]
 2. Seleccione el icono **"+"** a la derecha de la pantalla para crear una nueva configuración
 
 ![](<.gitbook/assets/1 (11).png>)

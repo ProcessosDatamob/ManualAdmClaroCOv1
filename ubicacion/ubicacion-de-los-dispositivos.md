@@ -2,9 +2,9 @@
 
 
 
-Esta pantalla del sistema tiene como objetivo visualizar y generar un informe con la última ubicación enviada por los dispositivos.
+Esta pantalla del sistema tiene como objetivo visualizar y generar un reporte con la última ubicación enviada por los dispositivos.
 
-Para ver y generar el informe de las ubicaciones, siga los pasos descritos en esta sección.
+Para ver y generar el reporte de las ubicaciones, siga los pasos descritos en esta sección.
 
 1. Haga clic en el menú "Ubicación" y seleccione el submenú "Ubicación de dispositivo".
 
@@ -23,7 +23,7 @@ Es importante destacar que la dirección mostrada puede cambiar al actualizar la
 3. Si desea ver la ubicación de un dispositivo específico, ingrese el número de dispositivo en el campo "Buscar";
 4. Para ordenar la información mostrada, haga clic en las flechas al lado del título de la información que desea ordenar. (Usuario, teléfono, Lat/Lng o fecha);
 5. Haga clic en el signo ">", que aparece al principio de la línea, para mostrar la dirección;
-6. Para exportar el informe de ubicación, haga clic en el enlace "Excel";
+6. Para exportar el reportee de ubicación, haga clic en el enlace "Excel";
 7. Para copiar la información del reporte de ubicación, haga clic en el enlace "Copiar";
 
 ![](<../.gitbook/assets/3 (4).png>)

@@ -17,19 +17,15 @@ Al recibir una orden, la aplicación no mostrará el texto sobre la orden enviad
 
 Para saber cómo enviar mensajes y comandos, siga los pasos descritos en esta sección.
 
-Haga clic en el menú "Mensajes" para acceder a la pantalla.
-
-Para enviar mensajes y comandos, haga clic en el botón "Nuevo mensaje".
+1. Haga clic en el menú "Mensajes" para acceder a la pantalla.
+2. Para enviar mensajes y comandos, haga clic en el botón "Nuevo mensaje".
 
 ![](<.gitbook/assets/0 (8).png>)
 
-Para enviar mensajes y comandos a todos los dispositivos de la empresa, seleccione la empresa.
-
-Para enviar mensajes y comandos a los dispositivos de uno o más grupos, seleccione los grupos.
-
-Para enviar mensajes y comandos a uno o más usuarios de dispositivos específicos, seleccione los usuarios de dispositivos.
-
-También puede enviar el mismo mensaje o comando a la empresa, grupos y usuarios de dispositivos simultáneamente. Para ello, solo tiene que rellenar los campos y hacer la combinación que desee.
+3. Para enviar mensajes y comandos a todos los dispositivos de la empresa, seleccione la empresa.
+4. Para enviar mensajes y comandos a los dispositivos de uno o más grupos, seleccione los grupos.
+5. Para enviar mensajes y comandos a uno o más usuarios de dispositivos específicos, seleccione los usuarios de dispositivos.
+6. También puede enviar el mismo mensaje o comando a la empresa, grupos y usuarios de dispositivos simultáneamente. Para ello, solo tiene que rellenar los campos y hacer la combinación que desee.
 
 {% hint style="info" %}
 **NOTA**
@@ -37,24 +33,17 @@ También puede enviar el mismo mensaje o comando a la empresa, grupos y usuarios
 Si un dispositivo se informa en dos campos (por ejemplo, grupo y usuario), recibirá dos mensajes o comandos.
 {% endhint %}
 
-Si desea eliminar la empresa, el grupo o el usuario del dispositivo de la selección, haga clic en la "x" junto al elemento seleccionado.
-
-Escriba el mensaje o la orden.
-
-Haga clic en el botón "Enviar" para colocar el mensaje u orden en la fila de envío.
-
-Al colocar el mensaje o la orden en la fila de envío, el sistema mostrará la orden o el mensaje en el informe de envío.
+7. Si desea eliminar la empresa, el grupo o el usuario del dispositivo de la selección, haga clic en la "x" junto al elemento seleccionado.
+8. Escriba el mensaje o la orden.
+9. Haga clic en el botón "Enviar" para colocar el mensaje u orden en la fila de envío.
+10. Al colocar el mensaje o la orden en la fila de envío, el sistema mostrará la orden o el mensaje en el reporte de envío.
 
 ![](<.gitbook/assets/1 (8).png>)
 
-Si desea ver un mensaje o una orden específica, escriba el texto en el campo "Buscar".
-
-Para ordenar la información mostrada, haga clic en el título de la columna "fecha".
-
-Para obtener más información, haga clic en "..." y seleccione "Ver mensaje".
-
-Para exportar el informe de las aplicaciones, haga clic en "Excel".
-
-Para copiar la información del informe de la aplicación, haga clic en "Copiar".
+11. Si desea ver un mensaje o una orden específica, escriba el texto en el campo "Buscar".
+12. Para ordenar la información mostrada, haga clic en el título de la columna "fecha".
+13. Para obtener más información, haga clic en "..." y seleccione "Ver mensaje".
+14. Para exportar el reporte de las aplicaciones, haga clic en "Excel".
+15. Para copiar la información del reporte de la aplicación, haga clic en "Copiar".
 
 ![](<.gitbook/assets/2 (8).png>)
