@@ -6,7 +6,7 @@ Para saber cómo configurar la empresa siga los pasos descritos en esta sesión:
 
 1. Haga clic en el menú "Empresa" y seleccione el submenú "Configuración general".
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Seleccione el la gestión deseada.
 

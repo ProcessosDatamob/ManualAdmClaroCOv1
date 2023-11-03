@@ -7,11 +7,11 @@ Para acceder a la configuración del "Modo Quiosco", siga estos pasos:&#x20;
 1. En la pantalla "Editar política", seleccione la pestaña "Modo Quiosco".&#x20;
 2. Active el modo quiosco haciendo clic en el botón de activación.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. En la pantalla se mostrará un mensaje de confirmación. Confirme haciendo clic en el botón "Activar".
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Al activar el Modo Quiosco en la política y aprovisionar un dispositivo con esta política, la aplicación Kiosk Launcher Manager se instalará automáticamente en el dispositivo.
 

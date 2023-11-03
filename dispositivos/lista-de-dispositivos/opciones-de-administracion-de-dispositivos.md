@@ -1,10 +1,18 @@
 # Opciones de administración de dispositivos
 
-**Opciones de administración de dispositivos**
+En la pantalla de "Dispositivos" dentro de "Lista de Dispositivos" se puede acceder a las opciones de consulta y configuración del dispositivo utilizando los tres puntos "..." que aparecen a la derecha en la lista de los dispositivos, como se ilustra en la imagen de abajo:
 
-En la pantalla "Dispositivos" se puede acceder a las opciones de consulta y configuración del dispositivo utilizando los tres puntos "..." que aparecen a la derecha en la lista de dispositivos. Las opciones disponibles se muestran en la siguiente imagen.
+<figure><img src="../../.gitbook/assets/Captura de tela 2023-11-03 143049.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/4 (5).png>)
+Las opciones disponibles se muestran en la siguiente imagen:
+
+| Modo de Gestión      | Opciones disponibles |
+| -------------------- | -------------------- |
+| Android              |                      |
+| Android Block SIM    |                      |
+| Android Work Profile |                      |
+
+<mark style="background-color:green;">ATUALIZAR</mark>
 
 Las opciones resaltadas en la figura se detallan en las siguientes subsecciones.
 
@@ -17,7 +25,7 @@ El sistema mostrará la pantalla del historial de batería del dispositivo.
 1. Seleccione una fecha para ver los datos del historial.
 2. Desplazar el cursor sobre el gráfico para ver los valores en un momento específico.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Historial de Almacenamiento**
 
