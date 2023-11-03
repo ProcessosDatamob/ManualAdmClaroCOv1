@@ -1,4 +1,4 @@
-# Reportes
+# Reporte de movimientos
 
 Esta pantalla del sistema tiene como objetivo permitir la visualización y generar reportes de algunas acciones realizadas en el portal.
 
@@ -16,4 +16,4 @@ Para saber cómo utilizar esta pantalla siga los pasos descritos en esta sesión
 5. Se puede seleccionar también el tipo de categoría, siendo ellas: Empresa, dispositivo o Política;
 6. Para copiar la información, simplemente haga clic en el botón "Copiar"
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
