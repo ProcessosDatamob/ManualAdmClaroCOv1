@@ -42,7 +42,7 @@ El correo electrónico de confirmación es un mensaje automático y se puede ide
 
 El token de confirmación debe insertarse en la pantalla para confirmar el registro de la empresa. La pantalla de confirmación se muestra a continuación.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Si no ha recibido el token por correo electrónico, el usuario puede solicitar que se reenvíe haciendo clic en la opción "Reenviar código" que está disponible justo encima del botón "Confirmar".
 
