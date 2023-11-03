@@ -6,10 +6,10 @@ En la pantalla de "Dispositivos" dentro de "Lista de Dispositivos" se puede acce
 
 Las opciones disponibles se muestran en la siguiente imagen:
 
-| Modo de Gestión   | Opciones disponibles |
-| ----------------- | -------------------- |
-| Android           |                      |
-| Android Block SIM |                      |
+| Modo de Gestión   | Opciones disponibles                                                                                                                                                                                                                                                                                                                      |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Android           | <p>Historial de la Batería </p><p>Historial de Almacenamiento</p><p>Reporte de no Conformidad </p><p>Alterar Politica </p><p>Habilitar/ Deshabilitar el dispositivo</p><p>Apagar Pantalla </p><p>Reiniciar Dispositivo </p><p>Generar nueva contraseña de dispositivo </p><p>Remover dispositivo (WIPE)</p><p>Administrar Información</p> |
+| Android Block SIM | <p>Historial de la Batería </p><p>Historial de Almacenamiento</p><p>Reporte de no Conformidad </p><p>Alterar Política </p><p>Habilitar/ Deshabilitar el dispositivo</p><p>Apagar Pantalla </p><p>Reiniciar Dispositivo </p><p>Quitar Bloqueo de Pantalla</p><p>Remover dispositivo (WIPE)</p><p>Administrar Información</p>               |
 
 <mark style="background-color:green;">ATUALIZAR</mark>
 
