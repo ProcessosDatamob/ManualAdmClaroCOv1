@@ -22,7 +22,7 @@ Para saber cómo administrar los dispositivos activos de la empresa, siga los pa
 
 10. Utilice los tres puntos "..." para mostrar el menú de acciones y aplicar la acción deseada al dispositivo.
 
-![](<../../.gitbook/assets/2 (6).png>)
+**Información del dispositivo**
 
 La información del dispositivo que se muestra en la lista es:
 
@@ -35,11 +35,11 @@ La información del dispositivo que se muestra en la lista es:
 
 Al hacer clic en el signo ">" junto al usuario el sistema muestra más información como se puede ver en la imagen de abajo.
 
-![](<../../.gitbook/assets/3 (5).png>)
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 * **Política -** nombre de la directiva asignada al dispositivo;
 * **Fabricante -** nombre del fabricante del dispositivo;
-* **Sistema operativo -** versión de Android o iOS;
+* **Sistema operativo -** versión de Android;
 * **Fecha de registro -** fecha y hora de registro del dispositivo;
 * **Grupo -** grupo al que está asociado el dispositivo;
 * **Status-** indica el estado del dispositivo. Los estados que puede tener un dispositivo están en la siguiente tabla.

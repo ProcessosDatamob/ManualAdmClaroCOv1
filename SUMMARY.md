@@ -42,7 +42,7 @@
 * [DISPOSITIVOS](dispositivos/README.md)
   * [Lista de Dispositivos](dispositivos/lista-de-dispositivos/README.md)
     * [Opciones de administración de dispositivos](dispositivos/lista-de-dispositivos/opciones-de-administracion-de-dispositivos.md)
-* [Información de la aplicación](informacion-de-la-aplicacion.md)
+  * [Información de la aplicación](dispositivos/informacion-de-la-aplicacion.md)
 * [ZERO TOUCH](zero-touch.md)
 * [SITIOS](sitios/README.md)
   * [Reporte de sitios por fecha](sitios/reporte-de-sitios-por-fecha.md)
