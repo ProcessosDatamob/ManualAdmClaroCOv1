@@ -20,6 +20,12 @@ Para saber cómo administrar los dispositivos activos de la empresa, siga los pa
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+**NOTA**&#x20;
+
+Para buscar por el número de teléfono utilizar el campo de búsqueda libre.
+{% endhint %}
+
 10. Utilice los tres puntos "..." para mostrar el menú de acciones y aplicar la acción deseada al dispositivo.
 
 **Información del dispositivo**
