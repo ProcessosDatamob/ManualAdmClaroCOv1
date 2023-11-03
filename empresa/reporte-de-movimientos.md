@@ -14,6 +14,20 @@ Para saber cómo utilizar esta pantalla siga los pasos descritos en esta sesión
 3. Utilizar el campo "Usuarios" si desea consultar información de un usuario específico;
 4. Es posible también filtrar por actividad a través del campo "Actividades", siendo que los tipos disponibles son: Inserción, Exclusión, Edición, Términos de Uso y Política de Privacidad;
 5. Se puede seleccionar también el tipo de categoría, siendo ellas: Empresa, dispositivo o Política;
-6. Para copiar la información, simplemente haga clic en el botón "Copiar"
+6. Para exportar la información en Excel, simplemente haga clic en el botón "Excel"
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+**NOTA**&#x20;
+
+En el informe exportado en Excel hay una columna "Cambios" donde es posible consultar los campos modificados.
+{% endhint %}
+
+7. Para copiar la información, simplemente haga clic en el botón "Copiar"
+
+<figure><img src="../.gitbook/assets/Captura de tela 2023-11-03 115311.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+NOTA&#x20;
+
+Haciendo clic en ↑↓ se puede ordenar la columna de fecha y hora.
+{% endhint %}
