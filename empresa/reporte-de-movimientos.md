@@ -31,3 +31,22 @@ NOTA&#x20;
 
 Haciendo clic en ↑↓ se puede ordenar la columna de fecha y hora.
 {% endhint %}
+
+* **Información sobre los filtros de las acciones del portal**&#x20;
+
+A partir de los filtros es posible identificar las acciones del portal que poseen registro, para verificar los cambios realizados y rastrear los cambios de comportamiento. Cuando seleccione una opción de "Actividad" entonces presentará las opciones de "Categoría" que poseen registros conforme combinaciones descritas en la tabla abajo:
+
+| Actividad                  | Categoría                                                                               |
+| -------------------------- | --------------------------------------------------------------------------------------- |
+| Inserción                  | <ul><li>Empresa</li><li>Dispositivo</li></ul>                                           |
+| Edición                    | <ul><li>Empresa</li></ul>                                                               |
+| Exclusión                  | <ul><li>Dispositivo</li><li>Usuario</li></ul>                                           |
+| Términos de Uso            | <ul><li>Empresa</li><li>Dispositivo</li></ul>                                           |
+| Política de Privacidad     | <ul><li>Empresa</li><li>Dispositivo</li></ul>                                           |
+| Término de Responsabilidad | <ul><li>Empresa</li><li>Dispositivo</li><li>Usuario</li><li>Gestionar Factura</li></ul> |
+
+{% hint style="info" %}
+**NOTA**&#x20;
+
+Al seleccionar un usuario administrador se mostrará su actividad y categoría.
+{% endhint %}
