@@ -6,17 +6,16 @@ En la pantalla de "Dispositivos" dentro de "Lista de Dispositivos" se puede acce
 
 Las opciones disponibles se muestran en la siguiente imagen:
 
-| Modo de Gestión      | Opciones disponibles |
-| -------------------- | -------------------- |
-| Android              |                      |
-| Android Block SIM    |                      |
-| Android Work Profile |                      |
+| Modo de Gestión   | Opciones disponibles |
+| ----------------- | -------------------- |
+| Android           |                      |
+| Android Block SIM |                      |
 
 <mark style="background-color:green;">ATUALIZAR</mark>
 
 Las opciones resaltadas en la figura se detallan en las siguientes subsecciones.
 
-* **Historial de la Batería**
+**Historial de la Batería**
 
 Para ver el historial de batería del dispositivo, haga clic en "Historial de batería".
 
