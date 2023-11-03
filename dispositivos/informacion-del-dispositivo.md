@@ -39,7 +39,7 @@ El sistema mostrará la pantalla del historial de batería del dispositivo.
 1. Seleccione una fecha para ver los datos del historial.
 2. Desplazar el cursor sobre el gráfico para ver los valores en un momento específico.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Historial de Almacenamiento**
 

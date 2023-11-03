@@ -6,7 +6,7 @@ Para saber cómo configurar la empresa siga los pasos descritos en esta sesión:
 
 1. Haga clic en el menú "Empresa" y seleccione el submenú "Configuración general".
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Inicio del ciclo -** Utilizamos este campo para definir la fecha de inicio de la contabilización de los datos que serán analizados.
 * **Sincronizar a cada -** Este campo define el tiempo de sincronización del portal, es decir, el tiempo para sincronizar con los datos recibidos de los dispositivos.
