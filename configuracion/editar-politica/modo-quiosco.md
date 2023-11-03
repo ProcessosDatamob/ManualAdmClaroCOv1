@@ -26,6 +26,6 @@ También cambiará el lanzador (launcher) del dispositivo para el lanzador de la
 
 El fondo de pantalla se puede cargar en la política y se puede establecer la orientación de la pantalla, que se enviarán a la aplicación.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 Los aplicativos que se mostrarán en el dispositivo serán definidos en la política, es decir, solo los aplicativos autorizados en la política se mostrarán en el lanzador.
