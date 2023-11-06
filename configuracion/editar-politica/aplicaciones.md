@@ -4,7 +4,7 @@ La pestaña de configuración de aplicaciones le permite administrar configuraci
 
 La pantalla "Editar política" situada en la pestaña "Aplicaciones" se muestra a continuación.
 
-![](<../../.gitbook/assets/0 (10).png>)
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Las pantallas tienen las siguientes partes, según la numeración en la figura:
 
@@ -47,7 +47,7 @@ Para acceder a la configuración administrada de una aplicación, debe estar en 
 1. Localice la aplicación deseada y haga clic en los tres puntos al final de la línea para mostrar el menú con más opciones;
 2. Haga clic en "Configuración administrada".
 
-![](<../../.gitbook/assets/2 (10).png>)
+<figure><img src="../../.gitbook/assets/Captura de tela 2023-11-06 174309.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **IMPORTANTE**

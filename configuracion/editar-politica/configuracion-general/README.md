@@ -14,7 +14,7 @@ Los ajustes se agrupan en los tipos:
 * Ubicación;
 * Usuario;
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTA**

@@ -1,7 +1,5 @@
 # Información de la empresa
 
-
-
 &#x20;Esta pantalla del sistema tiene como objetivo permitir al usuario visualizar y actualizar los datos de la empresa. Para acceder a esta pantalla el usuario debe ser Administrador de empresa.
 
 Para ver o cambiar los datos de la empresa, siga los pasos descritos a continuación:
@@ -11,7 +9,7 @@ Para ver o cambiar los datos de la empresa, siga los pasos descritos a continuac
 3. La información de todos los demás campos se puede cambiar.
 4. Después de finalizar, haga clic en "Actualizar" para guardar los cambios.
 
-![](<../.gitbook/assets/18 (2) (1).png>)
+<figure><img src="../.gitbook/assets/Captura de tela 2023-11-06 170944.png" alt=""><figcaption></figcaption></figure>
 
 ![](<../.gitbook/assets/19 (2) (1).png>)
 

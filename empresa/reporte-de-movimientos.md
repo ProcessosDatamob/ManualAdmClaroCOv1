@@ -6,9 +6,9 @@ Los cambios auditables son: cambios en la empresa, registro de la empresa en Goo
 
 Para saber cómo utilizar esta pantalla siga los pasos descritos en esta sesión:
 
-1. Haga clic en el menú "Empresa" y seleccione el submenú "Reportes".
+1. Haga clic en el menú "Empresa" y seleccione el submenú "Reporte de Movimientos".
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Captura de tela 2023-11-06 171325 (2).png" alt=""><figcaption></figcaption></figure>
 
 2. Seleccione el intervalo de fechas que desea consultar la información;
 3. Utilizar el campo "Usuarios" si desea consultar información de un usuario específico;

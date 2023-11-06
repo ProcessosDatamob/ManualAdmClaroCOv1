@@ -22,7 +22,7 @@ El sistema mostrará la pantalla del historial de batería del dispositivo.
 1. Seleccione una fecha para ver los datos del historial.
 2. Desplazar el cursor sobre el gráfico para ver los valores en un momento específico.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Historial de Almacenamiento**
 
@@ -46,7 +46,7 @@ Al elegir Alterar política, aparecerá en el centro de la pantalla un cuadro de
 
 La política define las preferencias, incluidos los criterios de hardware, software, sistema operativo, seguridad, etc. Para obtener más información sobre Políticas, lea la sección de configuración de este manual.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 **Deshabilitar Dispositivo**
 
@@ -54,7 +54,7 @@ Cuando se envía el comando 'Desactivar Dispositivos', se desactivan (o quedan b
 
 Para confirmar la operación, en la pantalla de confirmación haga clic en el botón "Deshabilitar".
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Activar dispositivo**
 
@@ -70,7 +70,7 @@ La opción "Apagar pantalla" envía un comando para apagar la pantalla del dispo
 
 Esta operación envía una orden para reiniciar el dispositivo. Seleccione la opción "Reiniciar dispositivo". Se muestra un mensaje en la pantalla del portal para confirmar el envío de la orden. El mensaje mostrado se muestra a continuación.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Generar nueva contraseña del dispositivo**
 
@@ -84,7 +84,7 @@ Rellene los campos "Nueva contraseña" y "Confirmar nueva contraseña" con valor
 
 La pantalla para generar nueva contraseña del dispositivo se muestra a continuación.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Remover dispositivo (WIPE)**
 
@@ -92,7 +92,7 @@ Esta operación le permite eliminar un dispositivo. Limpia los datos y configura
 
 Como se puede ver en la siguiente imagen, se muestra un mensaje en la pantalla para información y advertencia. La operación no se puede deshacer, por lo tanto, confirme solo cuando esté seguro de que desea eliminar el dispositivo.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Administrar información**
 

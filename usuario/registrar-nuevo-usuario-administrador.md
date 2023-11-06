@@ -4,7 +4,7 @@ Esta pantalla del sistema tiene como objetivo permitirla creación de un usuario
 
 Para crear un usuario administrador, haga clic en el menú "Usuarios" y seleccione el submenú "Registrar nuevo usuario administrador".
 
-![](<../.gitbook/assets/0 (1) (1) (1).png>)
+<figure><img src="../.gitbook/assets/Captura de tela 2023-11-06 172415.png" alt=""><figcaption></figcaption></figure>
 
 Al acceder a la pantalla, el sistema no permitirá cambiar la información del campo "Empresa"
 

@@ -30,10 +30,6 @@ Si la aplicación se elimina de la "Google Play Administrada" se recomienda que 
 
 6. Para generar el reporte de las aplicaciones, haga clic en la opción "Excel". El sistema puede generar un reporte solo con la información que está en la primera página o un reporte completo. Haga clic en la opción deseada para que el sistema comience a procesar.
 
-![Interface gráfica do usuário, Texto, Aplicativo
-
-Descrição gerada automaticamente](<../.gitbook/assets/3 (7) (1).png>)
-
 Si es el reporte de una página, se genera y descarga automáticamente. Si es el completo, puede tomar unos minutos para ser generado se pone a disposición para su descarga en las notificaciones del sistema como se puede ver a continuación.
 
 ![Interface gráfica do usuário, Texto, Aplicativo

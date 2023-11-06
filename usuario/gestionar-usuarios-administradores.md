@@ -4,13 +4,13 @@ Esta pantalla del sistema tiene como objetivo permitir cambiar los datos de un u
 
 Para cambiar un usuario administrador, haga clic en el menú "Usuarios" y seleccione el submenú "Gestionar usuarios administradores".
 
-![](<../.gitbook/assets/3 (1) (1) (1).png>)
+<figure><img src="../.gitbook/assets/Captura de tela 2023-11-06 172415 (1).png" alt=""><figcaption></figcaption></figure>
 
 Al acceder a la pantalla, el sistema no permitirá cambiar la información del campo "Empresa" pues es esencial para el correcto funcionamiento de las reglas del sistema. Proceda con los siguientes pasos:
 
 1. Al acceder a la pantalla, el sistema mostrará una lista con todos los usuarios administradores.
 
-![](<../.gitbook/assets/4 (2) (1).png>)
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 2. Para buscar un usuario, ingrese el nombre del usuario en el campo "Buscar".
 3. Para ordenar la información mostrada, haga clic en el título de la información que desee.

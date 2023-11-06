@@ -215,14 +215,10 @@ Descrição gerada automaticamente](<.gitbook/assets/15 (1) (1) (1).png>)
 
 Al hacer clic en "Más información", nos dirigiremos a la siguiente pantalla, donde es posible realizar una búsqueda a través del campo de escritura libre o bien filtrar por categoría.
 
-![Interface gráfica do usuário, Texto, Aplicativo, Email, Teams
-
-Descrição gerada automaticamente](<.gitbook/assets/16 (1) (1) (1).png>)
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Al desplazar la pantalla más abajo, tendremos acceso a la lista de preguntas frecuentes
 
 Y al final de la página tendremos acceso también a los manuales de descarga, así como tenemos en el Dashboard.
 
-![Uma imagem contendo Aplicativo
-
-Descrição gerada automaticamente](<.gitbook/assets/17 (2) (1).png>)
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
