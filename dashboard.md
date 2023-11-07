@@ -197,21 +197,15 @@ Utilice los recursos del mapa para optimizar la visualización de las ubicacione
 
 En esta pantalla tendremos acceso a los manuales descargables. Al hacer clic en "Más información", se mostrará la pantalla con Documentos y Materiales de Apoyo.
 
-![Uma imagem contendo Forma
+![](<.gitbook/assets/13 (2) (1).png>)
 
-Descrição gerada automaticamente](<.gitbook/assets/13 (2) (1).png>)
-
-![Interface gráfica do usuário, Aplicativo
-
-Descrição gerada automaticamente](<.gitbook/assets/14 (2) (1).png>)
+<figure><img src=".gitbook/assets/Captura de tela 2023-11-07 085758.png" alt=""><figcaption></figcaption></figure>
 
 **Alguna Duda**
 
 A través de la sesión “_Alguna duda?_" tendremos acceso a la pantalla donde es posible visualizar las preguntas frecuentes realizadas por los usuarios:
 
-![Interface gráfica do usuário, Aplicativo
-
-Descrição gerada automaticamente](<.gitbook/assets/15 (1) (1) (1).png>)
+<figure><img src=".gitbook/assets/Captura de tela 2023-11-06 170641.png" alt=""><figcaption></figcaption></figure>
 
 Al hacer clic en "Más información", nos dirigiremos a la siguiente pantalla, donde es posible realizar una búsqueda a través del campo de escritura libre o bien filtrar por categoría.
 

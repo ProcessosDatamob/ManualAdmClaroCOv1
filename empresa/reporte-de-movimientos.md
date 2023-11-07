@@ -36,14 +36,7 @@ Haciendo clic en ↑↓ se puede ordenar la columna de fecha y hora.
 
 A partir de los filtros es posible identificar las acciones del portal que poseen registro, para verificar los cambios realizados y rastrear los cambios de comportamiento. Cuando seleccione una opción de "Actividad" entonces presentará las opciones de "Categoría" que poseen registros conforme combinaciones descritas en la tabla abajo:
 
-| Actividad                  | Categoría                                                                               |
-| -------------------------- | --------------------------------------------------------------------------------------- |
-| Inserción                  | <ul><li>Empresa</li><li>Dispositivo</li></ul>                                           |
-| Edición                    | <ul><li>Empresa</li></ul>                                                               |
-| Exclusión                  | <ul><li>Dispositivo</li><li>Usuario</li></ul>                                           |
-| Términos de Uso            | <ul><li>Empresa</li><li>Dispositivo</li></ul>                                           |
-| Política de Privacidad     | <ul><li>Empresa</li><li>Dispositivo</li></ul>                                           |
-| Término de Responsabilidad | <ul><li>Empresa</li><li>Dispositivo</li><li>Usuario</li><li>Gestionar Factura</li></ul> |
+<table><thead><tr><th width="337">Actividad</th><th>Categoría</th></tr></thead><tbody><tr><td>Inserción</td><td><ul><li>Empresa</li><li>Dispositivo</li></ul></td></tr><tr><td>Edición</td><td><ul><li>Empresa</li></ul></td></tr><tr><td>Exclusión</td><td><ul><li>Dispositivo</li><li>Usuario</li></ul></td></tr><tr><td>Términos de Uso</td><td><ul><li>Empresa</li><li>Dispositivo</li></ul></td></tr><tr><td>Política de Privacidad</td><td><ul><li>Empresa</li><li>Dispositivo</li></ul></td></tr><tr><td>Término de Responsabilidad</td><td><ul><li>Empresa</li><li>Dispositivo</li><li>Usuario</li><li>Gestionar Factura</li></ul></td></tr></tbody></table>
 
 {% hint style="info" %}
 **NOTA**&#x20;
