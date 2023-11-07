@@ -4,7 +4,7 @@ La pestaña de configuración de aplicaciones le permite administrar configuraci
 
 La pantalla "Editar política" situada en la pestaña "Aplicaciones" se muestra a continuación.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2023-11-07 110836.png" alt=""><figcaption></figcaption></figure>
 
 Las pantallas tienen las siguientes partes, según la numeración en la figura:
 

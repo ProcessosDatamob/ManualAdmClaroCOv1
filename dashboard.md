@@ -209,10 +209,10 @@ A través de la sesión “_Alguna duda?_" tendremos acceso a la pantalla donde 
 
 Al hacer clic en "Más información", nos dirigiremos a la siguiente pantalla, donde es posible realizar una búsqueda a través del campo de escritura libre o bien filtrar por categoría.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Al desplazar la pantalla más abajo, tendremos acceso a la lista de preguntas frecuentes
 
 Y al final de la página tendremos acceso también a los manuales de descarga, así como tenemos en el Dashboard.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

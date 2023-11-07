@@ -11,11 +11,11 @@ Para acceder a la configuración del "Modo Quiosco", siga estos pasos:&#x20;
 
 3. En la pantalla se mostrará un mensaje de confirmación. Confirme haciendo clic en el botón "Activar".
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Al activar el Modo Quiosco en la política y aprovisionar un dispositivo con esta política, la aplicación Kiosk Launcher Manager se instalará automáticamente en el dispositivo.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Cuando el dispositivo instala la aplicación Kiosk, esta aplicación capturará la lista de todos los programas instalados en el dispositivo y enviará esta lista al Portal. Además, enviará las siguientes configuraciones gestionadas al portal:
    * Fondo de pantalla

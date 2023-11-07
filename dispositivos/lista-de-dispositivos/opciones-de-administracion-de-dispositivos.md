@@ -4,7 +4,7 @@ En la pantalla de "Dispositivos" dentro de "Lista de Dispositivos" se puede acce
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2023-11-03 143049.png" alt=""><figcaption></figcaption></figure>
 
-Las opciones disponibles se muestran en la siguiente imagen:
+Las opciones disponibles se muestran en la siguiente tabla:
 
 | Modo de Gestión   | Opciones disponibles                                                                                                                                                                                                                                                                                                                      |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -22,7 +22,7 @@ El sistema mostrará la pantalla del historial de batería del dispositivo.
 1. Seleccione una fecha para ver los datos del historial.
 2. Desplazar el cursor sobre el gráfico para ver los valores en un momento específico.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Historial de Almacenamiento**
 
@@ -54,7 +54,7 @@ Cuando se envía el comando 'Desactivar Dispositivos', se desactivan (o quedan b
 
 Para confirmar la operación, en la pantalla de confirmación haga clic en el botón "Deshabilitar".
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Activar dispositivo**
 
@@ -70,7 +70,7 @@ La opción "Apagar pantalla" envía un comando para apagar la pantalla del dispo
 
 Esta operación envía una orden para reiniciar el dispositivo. Seleccione la opción "Reiniciar dispositivo". Se muestra un mensaje en la pantalla del portal para confirmar el envío de la orden. El mensaje mostrado se muestra a continuación.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Generar nueva contraseña del dispositivo**
 
