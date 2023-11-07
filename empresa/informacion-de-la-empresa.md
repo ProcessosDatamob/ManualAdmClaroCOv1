@@ -1,7 +1,5 @@
 # Información de la empresa
 
-&#x20;Esta pantalla del sistema tiene como objetivo permitir al usuario visualizar y actualizar los datos de la empresa. Para acceder a esta pantalla el usuario debe ser Administrador de empresa.
-
 Para ver o cambiar los datos de la empresa, siga los pasos descritos a continuación:
 
 1. Haga clic en el menú "Empresa" y seleccione el submenú "Información de la Empresa".

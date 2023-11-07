@@ -52,7 +52,7 @@ Para acceder a la configuración administrada de una aplicación, debe estar en 
 {% hint style="info" %}
 **IMPORTANTE**
 
-La aplicación Security Browser es el navegador web predeterminado del sistema <mark style="background-color:orange;">\<NomeProduto></mark> y con él es posible gestionar bloqueos de sitios por URL y categoría, así como monitorear la navegación del usuario. Consulte la sección 16 para obtener información detallada sobre la instalación y configuración de la aplicación Security Browser.
+La aplicación Security Browser es el navegador web predeterminado del sistema \<NomeProduto> y con él es posible gestionar bloqueos de sitios por URL y categoría, así como monitorear la navegación del usuario. Consulte la sección 16 para obtener información detallada sobre la instalación y configuración de la aplicación Security Browser.
 {% endhint %}
 
 Después del paso 2 se mostrará la siguiente pantalla. En esta pantalla tenemos los siguientes elementos:

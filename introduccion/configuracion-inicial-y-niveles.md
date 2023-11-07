@@ -1,10 +1,10 @@
 # Configuración inicial y niveles
 
-Al ingresar al <mark style="background-color:orange;">\<NomeProduto></mark>, el usuario tendrá acceso a las configuraciones y funcionalidades.
+Al ingresar al \<NomeProduto>, el usuario tendrá acceso a las configuraciones y funcionalidades.
 
 **Configuración de inicio**
 
-Al ingresar al portal de administración <mark style="background-color:orange;">\<NomeProduto></mark> por vez primera, se recomienda realizar la siguiente configuración:
+Al ingresar al portal de administración \<NomeProduto> por vez primera, se recomienda realizar la siguiente configuración:
 
 * **Perfil de Consumo -** Las configuraciones de perfil son importantes ya que se utilizan en el Dashboard del Portal para mostrar el consumo en porcentaje con respecto a los límites definidos. Además, con la información de perfil definida, el sistema puede enviar notificaciones por correo electrónico al administrador cuando se alcanza el 80%, 90% y 100% del perfil de consumo configurado. Para garantizar que todos los datos capturados se analicen correctamente, siga las instrucciones detalladas en la sección "Perfil de Consumo" de este manual.
 * **Día de inicio del ciclo -** para definir la fecha de inicio de la contabilización de los datos que serán analizados (detallado en la sección "Configuraciones Generales" de este manual).

@@ -1,9 +1,9 @@
 # Visión general de la solución
 
-<mark style="background-color:orange;">\<NomeProduto></mark> es una solución de gestión de movilidad empresarial que consta de:
+\<NomeProduto> es una solución de gestión de movilidad empresarial que consta de:
 
-* Portal de Administración <mark style="background-color:orange;">\<NomeProduto></mark> - sistema web que realiza toda la gestión de los dispositivos móviles de la empresa.
-* Aplicación <mark style="background-color:orange;">\<NomeProduto></mark> - aplicación Android que recopila toda la información de uso y consumo del dispositivo móvil.  Esta aplicación se instala por defecto estando presente en todos los dispositivos que se registran en el sistema.
+* Portal de Administración \<NomeProduto> - sistema web que realiza toda la gestión de los dispositivos móviles de la empresa.
+* Aplicación \<NomeProduto> - aplicación Android que recopila toda la información de uso y consumo del dispositivo móvil.  Esta aplicación se instala por defecto estando presente en todos los dispositivos que se registran en el sistema.
 * Aplicación Security Browser - Aplicación Android de navegación web responsable de realizar los bloqueos de sitios web, así como monitorear la navegación del usuario del dispositivo.
 
 {% hint style="warning" %}
@@ -12,11 +12,11 @@ IMPORTANTE
 La aplicación Security Browser está disponible en Play Store y debe incluirse en la política de registro de los dispositivos. El Capítulo 17 presenta paso a paso la inclusión y configuración de la aplicación Security Browser.&#x20;
 {% endhint %}
 
-Desde el Portal <mark style="background-color:orange;">\<NomeProduto></mark> es posible acceder a la información sobre el consumo y uso de los dispositivos asignados a los empleados de la empresa. También es posible definir políticas de bloqueos para restringir el uso indebido de los dispositivos, permitiendo al administrador evaluar y aumentar la productividad de los empleados, a través del análisis y la gestión de los recursos de telecomunicaciones de la empresa.
+Desde el Portal \<NomeProduto> es posible acceder a la información sobre el consumo y uso de los dispositivos asignados a los empleados de la empresa. También es posible definir políticas de bloqueos para restringir el uso indebido de los dispositivos, permitiendo al administrador evaluar y aumentar la productividad de los empleados, a través del análisis y la gestión de los recursos de telecomunicaciones de la empresa.
 
 **Envío de Información**
 
-Toda la información recopilada por la aplicación <mark style="background-color:orange;">\<NomeProduto></mark> se envía periódicamente a los servidores del sistema.  Los datos de consumo recopilados por la aplicación se envían de acuerdo con el tiempo configurado en el portal, en la opción "Sincronizar cada", que varía de 60 minutos a 24 horas.
+Toda la información recopilada por la aplicación \<NomeProduto> se envía periódicamente a los servidores del sistema.  Los datos de consumo recopilados por la aplicación se envían de acuerdo con el tiempo configurado en el portal, en la opción "Sincronizar cada", que varía de 60 minutos a 24 horas.
 
 Los datos de localización se recogen cada 3 minutos en la aplicación y se envía al portal cada 15 minutos.&#x20;
 
@@ -45,4 +45,4 @@ El sello Android Enterprise Recommended identifica dispositivos Android que cump
 
 Un dispositivo no estar en la lista de recomendados de Google no significa que no funcionará. Actualmente, Android Enterprise es compatible con todas las versiones de Android desde Android 6.0. Sin embargo, algunas características pueden no estar disponibles en versiones anteriores del sistema operativo. Se recomienda utilizar las versiones más nuevas de Android para aprovechar todas las características y beneficios que ofrece la plataforma.
 
-Importante destacar que <mark style="background-color:orange;">\<NomeProduto></mark> no fue desarrollado solamente con tecnología Google Android Enterprise y esto significa que algunas funciones, como por ejemplo, localización, consumo de batería y almacenamiento, pueden presentar comportamiento diferente del esperado dependiendo de las configuraciones del sistema operativo del dispositivo. &#x20;
+Importante destacar que \<NomeProduto> no fue desarrollado solamente con tecnología Google Android Enterprise y esto significa que algunas funciones, como por ejemplo, localización, consumo de batería y almacenamiento, pueden presentar comportamiento diferente del esperado dependiendo de las configuraciones del sistema operativo del dispositivo. &#x20;

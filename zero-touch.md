@@ -1,6 +1,6 @@
 # ZERO TOUCH
 
-El registro Zero Touch es un proceso simplificado para los dispositivos Android que se aprovisionan para la gestión empresarial. El dispositivo inicia el método de aprovisionamiento de dispositivos totalmente administrado y descarga la aplicación <mark style="background-color:orange;">\<NomeProduto></mark> asociada, que completa la configuración del dispositivo.
+El registro Zero Touch es un proceso simplificado para los dispositivos Android que se aprovisionan para la gestión empresarial. El dispositivo inicia el método de aprovisionamiento de dispositivos totalmente administrado y descarga la aplicación \<NomeProduto> asociada, que completa la configuración del dispositivo.
 
 Este método de implementación es perfecto para dispositivos Android corporativos, por lo que las implementaciones a gran escala son rápidas, fáciles y seguras. Zero Touch simplifica la configuración de dispositivos en línea y el envío con una administración mejorada para que los empleados puedan abrir la caja y comenzar.
 
@@ -16,7 +16,7 @@ Para comenzar a usar Zero Touch, sigue estos pasos:
 
 1. Póngase en contacto con el Operador para adquirir los dispositivos (si es necesario) y solicitar la creación de la cuenta de cliente Zero Touch.
 2. Esperar a que Telcel cree su cuenta Zero-Touch.
-3. Una vez creada la cuenta Zero-Touch, acceda al <mark style="background-color:orange;">\<NomeProduto></mark>l, menú "Zero Touch" y enlace la cuenta con el <mark style="background-color:orange;">\<NomeProduto></mark> siguiendo el proceso después de seleccionar el botón "Siguiente" (ver pantalla abajo).
+3. Una vez creada la cuenta Zero-Touch, acceda al \<NomeProduto>, menú "Zero Touch" y enlace la cuenta con el \<NomeProduto> siguiendo el proceso después de seleccionar el botón "Siguiente" (ver pantalla abajo).
 
 ![](<.gitbook/assets/0 (11).png>)
 
@@ -44,9 +44,9 @@ Es necesario rellenar los siguientes campos que serán de identificación para e
 
 ![](<.gitbook/assets/2 (11).png>)
 
-3. En el portal <mark style="background-color:orange;">\<NomeProduto></mark>, defina qué política se aplicará a Zero-Touch, que puede ser una nueva política o ya existente para configurar manualmente la política en la configuración Zero-Touch siguiendo los pasos siguientes:
+3. En el portal \<NomeProduto>, defina qué política se aplicará a Zero-Touch, que puede ser una nueva política o ya existente para configurar manualmente la política en la configuración Zero-Touch siguiendo los pasos siguientes:
 
-* Acceda al menú "Configuraciones" de <mark style="background-color:orange;">\<NomeProduto></mark>;
+* Acceda al menú "Configuraciones" de \<NomeProduto>;
 * Seleccione la opción "Administrar políticas";
 * Seleccione la política deseada;
 * En el menú agrupado seleccione "Token de Registro";
@@ -60,7 +60,7 @@ Es necesario rellenar los siguientes campos que serán de identificación para e
 
 5. Identifique el IMEI correspondiente al dispositivo que desea registrar en la configuración cread:
 
-* Acceda al <mark style="background-color:orange;">\<NomeProduto></mark>;
+* Acceda al \<NomeProduto>;
 * Seleccione el menú "Dispositivos";
 * Seleccione el submenú "Lista de dispositivos";
 * Localice el dispositivo y copie la información del IMEI

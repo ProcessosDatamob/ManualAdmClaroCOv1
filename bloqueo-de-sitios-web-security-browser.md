@@ -2,7 +2,7 @@
 
 Security Browser es un navegador seguro y fácil de usar. Diseñado para Android, Security Browser permite a los administradores de dispositivos realizar el control y monitoreo de los sitios web a los que acceden los usuarios para garantizar un uso más seguro y el consumo de datos controlado.
 
-Los bloqueos de sitios web son realizados por la aplicación Security Browser. Forma parte del sistema <mark style="background-color:orange;">\<NomeProduto></mark> y tiene como objetivo realizar la configuración de bloqueo de sitios web por URL, palabra clave y categoría. También es responsable de registrar y transmitir al portal de administración el historial de navegación del usuario permitiendo la elaboración de reportes y rankings de sitios web visitados.
+Los bloqueos de sitios web son realizados por la aplicación Security Browser. Forma parte del sistema \<NomeProduto> y tiene como objetivo realizar la configuración de bloqueo de sitios web por URL, palabra clave y categoría. También es responsable de registrar y transmitir al portal de administración el historial de navegación del usuario permitiendo la elaboración de reportes y rankings de sitios web visitados.
 
 Por lo tanto, es importante destacar que la instalación y configuración de la aplicación Security Browser son fundamentales para el correcto desempeño de las funcionalidades relacionadas con el bloqueo y monitoreo de sitios web visitados.
 
@@ -12,8 +12,8 @@ El proceso de instalación del navegador es simple y transparente para el usuari
 
 Para realizar la instalación de la aplicación, vaya al menú "Gestión de Aplicaciones" y a la opción "Google Play Administrada". En la pantalla de Google Play Administrado realice los siguientes pasos:
 
-1. Utilice el campo de búsqueda para buscar "Security Browser <mark style="background-color:red;">Datamob</mark>".
-2. Seleccione la aplicación "Security Browser <mark style="background-color:red;">Datamob</mark>".
+1. Utilice el campo de búsqueda para buscar "Security Browser Datamob".
+2. Seleccione la aplicación "Security Browser Datamob".
 
 ![](<.gitbook/assets/0 (1) (1).png>)
 

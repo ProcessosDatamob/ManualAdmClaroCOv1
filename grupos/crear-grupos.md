@@ -1,7 +1,5 @@
 # Crear grupos
 
-Esta pantalla del sistema tiene como objetivo permitir al usuario crear un grupo de usuarios de dispositivos.
-
 Para crear un grupo, siga los pasos descritos en esta sección.
 
 1. Haga clic en el menú "Grupos" y seleccione el submenú "Registrar nuevo grupo".

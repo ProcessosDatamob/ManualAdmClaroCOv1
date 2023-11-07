@@ -49,7 +49,7 @@ Este indicador muestra el número total de usuarios de dispositivos que utilizan
 
 **Total de Licencias**
 
-Este indicador muestra el número total de licencias disponibles en el portal <mark style="background-color:orange;">\<NomeProduto></mark>.
+Este indicador muestra el número total de licencias disponibles en el portal \<NomeProduto>.
 
 ![](<.gitbook/assets/20 (4).png>)
 
@@ -67,7 +67,7 @@ Este indicador muestra el número total de dispositivos que están activos en el
 
 ![](<.gitbook/assets/0 (3) (1).png>)
 
-* **TOTAL -** Estos dispositivos se consideran "activos" al instalar y activar la aplicación <mark style="background-color:orange;">\<NomeProduto></mark>. Al hacer clic en "Total" el indicador mostrará la pantalla "Lista de dispositivos" que contiene el reporte con la información clave de los dispositivos activos
+* **TOTAL -** Estos dispositivos se consideran "activos" al instalar y activar la aplicación \<NomeProduto>. Al hacer clic en "Total" el indicador mostrará la pantalla "Lista de dispositivos" que contiene el reporte con la información clave de los dispositivos activos
 * **SIN COMUNICACIÓN -** Este indicador muestra el número total de dispositivos que no están enviando datos a los servidores durante un período prolongado. Al hacer clic en "Sin comunicación" el sistema muestra la pantalla de dispositivos sin comunicación.
 
 ![Interface gráfica do usuário

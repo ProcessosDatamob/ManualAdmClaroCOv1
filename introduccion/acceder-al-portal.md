@@ -1,13 +1,13 @@
 # Acceder al portal
 
-Cuando el producto <mark style="background-color:orange;">\<NomeProduto></mark> es habilitado para una empresa, las siguientes tareas son ejecutadas por el sistema, para permitir el acceso del usuario administrador de la empresa al Portal:
+Cuando el producto \<NomeProduto> es habilitado para una empresa, las siguientes tareas son ejecutadas por el sistema, para permitir el acceso del usuario administrador de la empresa al Portal:
 
 * Creación de las credenciales del Portal de Administración;
 * Envío de un correo electrónico de bienvenida que contiene las credenciales y un enlace para acceder al Portal de Administración.
 
 Para acceder al Portal de Administración, siga los pasos descritos en esta sección.
 
-1. Accede a la dirección <mark style="background-color:green;">\<EnderecoProduto></mark> para ver la pantalla de acceso del Portal. De preferencia, utilice el navegador Google Chrome, con la versión más actualizada.
+1. Accede a la dirección \<EnderecoProduto> para ver la pantalla de acceso del Portal. De preferencia, utilice el navegador Google Chrome, con la versión más actualizada.
 2. Para cambiar el idioma del sistema, seleccione el idioma en la parte superior derecha de la pantalla. Los idiomas del sistema son español, portugués e inglés.
 3. Ingrese los campos "Correo electrónico" y "Contraseña" con las credenciales de acceso recibidas en el correo electrónico de bienvenida.
 4. Haga clic en "Iniciar sesión" para confirmar la información y acceder al Portal.
@@ -27,7 +27,7 @@ En su primer acceso, después de hacer clic en "Iniciar sesión", el usuario deb
 {% hint style="info" %}
 **NOTA**
 
-**La Política de privacidad** - puede ser leída y debe ser aceptada en el primer acceso al <mark style="background-color:orange;">\<NomeProduto></mark> y permanece siempre disponible en la pantalla de login. En la aplicación <mark style="background-color:orange;">\<NomeProduto></mark> está presente en el momento de la activación del dispositivo.
+**La Política de privacidad** - puede ser leída y debe ser aceptada en el primer acceso al \<NomeProduto> y permanece siempre disponible en la pantalla de login. En la aplicación \<NomeProduto> está presente en el momento de la activación del dispositivo.
 
 **Términos de uso del usuario** - pueden ser leídos y deben ser aceptados en el primer acceso al portal y en el primer acceso a la aplicación.
 {% endhint %}
@@ -60,9 +60,9 @@ La pantalla de "Detalles de contacto" se muestra a continuación.
 
 ![](<../.gitbook/assets/5 (5) (1).png>)
 
-Lea la información de orientación de Google Play Administrada y complete los datos de la persona de la empresa que será el contacto oficial de protección de datos y la persona que será el representante de la Unión Europea. Los dos campos se pueden rellenar con el mismo contacto de la empresa. Esta información se puede administrar posteriormente en el Portal del Administrador de <mark style="background-color:orange;">\<NomeProduto></mark> en el menú "Empresas", submenú "Información de la Empresa".
+Lea la información de orientación de Google Play Administrada y complete los datos de la persona de la empresa que será el contacto oficial de protección de datos y la persona que será el representante de la Unión Europea. Los dos campos se pueden rellenar con el mismo contacto de la empresa. Esta información se puede administrar posteriormente en el Portal del Administrador de \<NomeProduto> en el menú "Empresas", submenú "Información de la Empresa".
 
-Después de confirmar los datos, se mostrará la pantalla del Portal de administración <mark style="background-color:orange;">\<NomeProduto></mark> con el mensaje "¡Felicidades! Su empresa se ha registrado correctamente en Android Enterprise."
+Después de confirmar los datos, se mostrará la pantalla del Portal de administración \<NomeProduto> con el mensaje "¡Felicidades! Su empresa se ha registrado correctamente en Android Enterprise."
 
 ![](<../.gitbook/assets/6 (5) (1).png>)
 
