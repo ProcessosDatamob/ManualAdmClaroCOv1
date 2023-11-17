@@ -9,7 +9,7 @@ Para ver o cambiar los datos de la empresa, siga los pasos descritos a continuac
 
 <figure><img src="../.gitbook/assets/Captura de tela 2023-11-06 170944.png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/19 (2) (1).png>)
+![](<../.gitbook/assets/19 (5).png>)
 
 **Eliminar Empresa**
 
@@ -27,4 +27,4 @@ La siguiente pantalla se muestra al hacer clic en "Eliminar empresa".
 
 ![Interface gráfica do usuário, Aplicativo, Word
 
-Descrição gerada automaticamente](<../.gitbook/assets/20 (2) (1).png>)
+Descrição gerada automaticamente](<../.gitbook/assets/20 (4).png>)

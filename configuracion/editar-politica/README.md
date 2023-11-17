@@ -8,6 +8,6 @@ En la siguiente imagen se muestra la pantalla "Editar política" y resalta los e
 2. Grupos de configuración de la pestaña "Ajustes" - haga clic en cada grupo para ver todas las configuraciones.
 3. Para guardar todas las configuraciones (Ajustes, aplicaciones y modo quiosco) haga clic en el botón "Guardar".
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Cada una de las guías de configuración (marcado 1 de la figura anterior) se describe en las siguientes secciones.

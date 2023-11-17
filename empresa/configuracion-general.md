@@ -14,6 +14,6 @@ Para saber cómo configurar la empresa siga los pasos descritos en esta sesión:
 * **Sincronizar a cada -** Este campo define el tiempo de sincronización del portal, es decir, el tiempo para sincronizar con los datos recibidos de los dispositivos.
 * **Otras Configuraciones - Correo electrónico de aviso -** Esta configuración activa el envío de notificaciones por correo electrónico al administrador cuando el dispositivo alcanza el 80%, 90% y 100% del perfil de consumo configurado.
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 3. Clique em "Atualizar".

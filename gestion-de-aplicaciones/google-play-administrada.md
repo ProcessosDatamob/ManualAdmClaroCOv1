@@ -10,11 +10,11 @@ Después de iniciar sesión en el portal de administración, uno de los primeros
 
 Para acceder a Google Play Administrado, ve al menú "Administración de aplicaciones" y a la opción "Google Play Administrado".
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 La siguiente captura de pantalla muestra la pantalla de Google Play administrada. Observe la pantalla y los puntos destacados y numerados:
 
-![](<../.gitbook/assets/7 (6) (1).png>)
+![](<../.gitbook/assets/7 (14).png>)
 
 * **Botón Buscar -** botón usado para buscar una aplicación;
 * **Buscar en Play Store -** permite buscar aplicaciones públicas;
@@ -31,13 +31,13 @@ Para elegir una aplicación pública, vaya al menú "Google Play Administrada". 
 1. Botón "Seleccionar" para seleccionar una aplicación.
 2. Flecha para volver a la pantalla de aplicaciones de Google Play.
 
-![](<../.gitbook/assets/8 (6) (1).png>)
+![](<../.gitbook/assets/8 (14).png>)
 
 Al seleccionar una aplicación, el sistema solicitará confirmación antes de incluirla en la lista de aplicaciones. Haga clic en "Confirmar" para incluir la aplicación o seleccione "Cancelar" para no realizar la inclusión.
 
 ![Interface gráfica do usuário, Aplicativo
 
-Descrição gerada automaticamente](<../.gitbook/assets/9 (6) (1).png>)
+Descrição gerada automaticamente](<../.gitbook/assets/9 (14).png>)
 
 Para ver la lista de las aplicaciones incluidas, vuelva a la pantalla "[Aplicaciones administradas](aplicaciones-administradas.md)".&#x20;
 
@@ -48,11 +48,11 @@ Para cargar aplicaciones propias de la empresa, siga los siguientes pasos:
 1. Acceda al icono de "Aplicaciones privadas";
 2. Haga clic en el más "+" que aparece en la parte inferior derecha de la pantalla;
 
-![](<../.gitbook/assets/10 (6).png>)
+![](<../.gitbook/assets/10 (13).png>)
 
 3. Especifique el nombre de su aplicación en el campo Título y cargue su archivo APK.
 
-![](<../.gitbook/assets/11 (6).png>)
+![](<../.gitbook/assets/11 (12).png>)
 
 {% hint style="warning" %}
 **ATENCIÓN**
@@ -69,7 +69,7 @@ Para crear una aplicación web, siga los siguientes pasos (numerados en la figur
 1. Acceda al menú "Aplicaciones web";
 2. Haga clic en el botón más en la esquina inferior derecha de la pantalla;
 
-![](<../.gitbook/assets/12 (6).png>)
+![](<../.gitbook/assets/12 (12).png>)
 
 3. Especifique un título que se mostrará en el dispositivo, en la Play Store administrada y en la lista y aplicaciones de la empresa
 4. Especifique la URL donde se abren las aplicaciones web
@@ -77,11 +77,11 @@ Para crear una aplicación web, siga los siguientes pasos (numerados en la figur
 6. Establezca un icono para la aplicación web para ayudar a los usuarios a identificarlo. Los iconos son opcionales, pero recomendados.
 7. Haga clic en crear.
 
-![](<../.gitbook/assets/13 (6).png>)
+![](<../.gitbook/assets/13 (12).png>)
 
 Después de registrar una aplicación aparecerá en la pantalla, como se puede ver en la imagen de abajo. Se pueden incluir tantas aplicaciones como sea necesario.
 
-![](<../.gitbook/assets/14 (6).png>)
+![](<../.gitbook/assets/14 (12).png>)
 
 Al hacer clic en la aplicación aparece la pantalla para editar la aplicación web, como se puede ver en la siguiente imagen. Los botones colocados abajo en la pantalla permiten:
 
@@ -95,4 +95,4 @@ Al hacer clic en la aplicación aparece la pantalla para editar la aplicación w
 Eliminar una aplicación de Google Play administrada y no eliminarla de la lista de aplicaciones administradas puede causar inconsistencias si la aplicación está o ya está vinculada a alguna política. Por este motivo, cada vez que elimine una aplicación de Google Play administrada, también debe eliminarla en la lista de aplicaciones administradas de la empresa y en todas las políticas que utilicen esta aplicación.
 {% endhint %}
 
-![](<../.gitbook/assets/15 (4) (1).png>)
+![](<../.gitbook/assets/15 (10).png>)

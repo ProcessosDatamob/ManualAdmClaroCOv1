@@ -14,7 +14,7 @@ Los ajustes se agrupan en los tipos:
 * Ubicación;
 * Usuario;
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTA**
@@ -24,6 +24,6 @@ El campo "búsqueda" le permite ingresar palabras clave relevantes para encontra
 
 Utilice los botones selectores para activar o desactivar la configuración de bloqueo. En la siguiente imagen resaltada, con el número 1, la configuración activada y, con el número 2, la configuración desactivada.
 
-![](<../../../.gitbook/assets/6 (9).png>)
+![](<../../../.gitbook/assets/6 (17).png>)
 
 Los grupos de configuración se muestran en la continuación.

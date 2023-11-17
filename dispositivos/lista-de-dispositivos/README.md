@@ -13,12 +13,12 @@ Para saber cómo administrar los dispositivos activos de la empresa, siga los pa
 6. Para copiar la información de los dispositivos, haga clic en el botón "Copiar".
 7. Utilice los filtros Grupo, Política, Modelo y Fabricante para buscar los dispositivos de los que desea listar o el filtro Modo de administración para acceder a la información deseada.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 8. Ordene la lista de dispositivos por las columnas en las flechas “ ![](<../../.gitbook/assets/1 (6).png>)”
 9. Haga clic en ">" para ver toda la información del dispositivo.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTA**&#x20;
@@ -41,7 +41,7 @@ La información del dispositivo que se muestra en la lista es:
 
 Al hacer clic en el signo ">" junto al usuario el sistema muestra más información como se puede ver en la imagen de abajo.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 * **Política -** nombre de la directiva asignada al dispositivo;
 * **Fabricante -** nombre del fabricante del dispositivo;

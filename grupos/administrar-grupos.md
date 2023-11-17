@@ -6,7 +6,7 @@ Para administrar un grupo, siga los pasos descritos a continuación.
 
 1. Se puede acceder a la pantalla de administración de grupos haciendo clic en el menú "Grupos" y seleccionando el submenú "Administrar grupos". Esta pantalla también se muestra al completar el registro de un nuevo grupo. Esta pantalla se muestra en la secuencia de texto.
 
-![](<../.gitbook/assets/2 (2) (1).png>)
+![](<../.gitbook/assets/2 (12).png>)
 
 Al entrar en la pantalla, se muestra la lista de grupos registrados.
 
@@ -19,4 +19,4 @@ Al entrar en la pantalla, se muestra la lista de grupos registrados.
 
 Al finalizar los cambios en el grupo, el sistema volverá a la pantalla de administración de grupos.
 
-![](<../.gitbook/assets/3 (2) (1).png>)
+![](<../.gitbook/assets/3 (10).png>)

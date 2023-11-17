@@ -19,4 +19,4 @@ Lo perfil de consumo se puede realizar en tres niveles (Empresa / Grupo / Usuari
 
 La siguiente imagen muestra la pantalla de configuración del perfil de consumo a la que se accede desde el menú "Configuraciones". Un rectángulo destaca el acceso a las pestañas "General", "Grupos" y "Usuarios".
 
-<figure><img src="../.gitbook/assets/9 (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/9 (12).png" alt=""><figcaption></figcaption></figure>

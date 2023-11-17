@@ -12,6 +12,6 @@ Las opciones del menú de configuración son:
 * **Registrar nueva política -** le permite crear una política y todas sus configuraciones.
 * **Perfil de Consumo -** permite registrar el perfil de consumo para empresa, grupo y usuario.
 
-![](<../.gitbook/assets/0 (9) (1).png>)
+![](<../.gitbook/assets/0 (23).png>)
 
 Las cuatro opciones del menú "Configuración" se detallan en las siguientes subsecciones.

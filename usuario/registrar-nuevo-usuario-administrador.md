@@ -17,7 +17,7 @@ Siguientes pasos:
 3. Ingrese el correo electrónico que se utilizará para que el usuario acceda al sistema (ejemplos: carina@teste.com, jose@app.com.br, jonas@tecnologia.com.br). Este correo electrónico no puede ser utilizado por ningún otro usuario de la empresa.
 4. Ingrese una contraseña para el usuario.
 
-![](<../.gitbook/assets/1 (1) (1) (1).png>)
+![](<../.gitbook/assets/1 (13).png>)
 
 5. Seleccione el tipo de usuario:
 
@@ -28,6 +28,6 @@ Si es un responsable de grupo, aparecerán más opciones:
 
 6. Seleccione el(los) grupo(s) que administrará el usuario.
 
-![](<../.gitbook/assets/2 (1) (1) (1).png>)
+![](<../.gitbook/assets/2 (13).png>)
 
 7. Haga clic en el botón "Registrarse" para completar el registro del usuario

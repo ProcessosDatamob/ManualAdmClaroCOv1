@@ -4,11 +4,11 @@ Esta pantalla del sistema tiene como objetivo permitir al usuario ver y generar 
 
 Para ver y generar este reporte, haga clic en el menú "Administración de aplicaciones" y en la opción "Aplicaciones administradas".
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 El sistema mostrará una lista de todas las aplicaciones instaladas en los dispositivos de la empresa. A continuación, se muestra la pantalla de visualización de las aplicaciones administradas.
 
-![](<../.gitbook/assets/1 (7) (1).png>)
+![](<../.gitbook/assets/1 (21).png>)
 
 La pantalla tiene elementos estándar que son similares a otras pantallas del sistema. Los puntos siguientes muestran las opciones de gestión de esta pantalla y están enumerados en la figura anterior:
 
@@ -20,7 +20,7 @@ La pantalla tiene elementos estándar que son similares a otras pantallas del si
 
 ![Interface gráfica do usuário, Aplicativo, Site
 
-Descrição gerada automaticamente](<../.gitbook/assets/2 (7) (1).png>)
+Descrição gerada automaticamente](<../.gitbook/assets/2 (21).png>)
 
 {% hint style="warning" %}
 **IMPORTANTE**
@@ -34,8 +34,8 @@ Si es el reporte de una página, se genera y descarga automáticamente. Si es el
 
 ![Interface gráfica do usuário, Texto, Aplicativo
 
-Descrição gerada automaticamente](<../.gitbook/assets/4 (7).png>)
+Descrição gerada automaticamente](<../.gitbook/assets/4 (16).png>)
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 7. Para copiar la información de la lista de aplicaciones al portapapeles, haga clic en el botón "Copiar".
