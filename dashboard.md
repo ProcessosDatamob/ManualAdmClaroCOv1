@@ -111,7 +111,7 @@ Este gráfico muestra las 5 aplicaciones que más han consumido datos móviles d
 
 El valor porcentual de cada una de las 5 aplicaciones se calcula en relación con la suma total de consumo de todas las aplicaciones durante el ciclo.
 
-Al hacer clic en el botón “Ver lista completa” el sistema exhibirá en pantalla todos los datos de las aplicaciones. Para saber cómo utilizar esa pantalla, lea la sección “[Aplicaciones](configuracion/editar-politica/aplicaciones.md)” en este manual.
+Al hacer clic en el botón “Ver lista completa” el sistema exhibirá en pantalla todos los datos de las aplicaciones. Para saber cómo utilizar esa pantalla, lea la sección “[Aplicaciones](configuraciones/editar-politica/aplicaciones.md)” en este manual.
 
 ![Uma imagem contendo Interface gráfica do usuário
 
@@ -135,7 +135,7 @@ Este gráfico muestra las 5 aplicaciones más utilizadas durante el ciclo. Este 
 
 El valor porcentual de cada una de las 5 aplicaciones se calcula en relación con la suma total del tiempo de uso de todas las aplicaciones durante el ciclo.
 
-Al hacer clic en el botón "Ver lista completa" el sistema mostrará la pantalla con la información de todas las aplicaciones. Para saber cómo utilizar esta pantalla, lea la sección "[Aplicaciones](configuracion/editar-politica/aplicaciones.md)" de este manual.
+Al hacer clic en el botón "Ver lista completa" el sistema mostrará la pantalla con la información de todas las aplicaciones. Para saber cómo utilizar esta pantalla, lea la sección "[Aplicaciones](configuraciones/editar-politica/aplicaciones.md)" de este manual.
 
 ![](<.gitbook/assets/6 (11).png>)
 
