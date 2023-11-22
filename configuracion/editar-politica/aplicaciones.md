@@ -25,9 +25,7 @@ Al seleccionar la opción “Abierta”, las aplicaciones agregadas a la políti
 {% hint style="info" %}
 **NOTA**
 
-Es importante tener en cuenta que el tipo de instalación "Preinstalada" de una aplicación ocurre solo una vez en el dispositivo. En otras palabras: cuando una aplicación está preinstalada es eliminada por el usuario, al cambiar la política que tiene la misma aplicación con el tipo de instalación “preinstalada” la aplicación no se mostrará en el dispositivo como ya estaba eliminado previamente.
-
-Para que la aplicación se muestre en el dispositivo con el tipo de instalación “preinstalada”, es necesario ejecutar el comando “Remove Device (WIPE)” en el portal o restablecer los valores de fábrica a través del dispositivo”.
+Si el usuario elige la opción “pre-instalada” deberá considerar que las aplicaciones se instalaran en ese momento ignorando si el dispositivo está en WIFI o si está usando la red de datos lo que podría traducirse en un alto consumo de datos. Es necesario asegurarse que el dispositivo esté conectado a WIFI si se utilizarán APPs “Pre-instaladas”.
 {% endhint %}
 
 5. Se pueden realizar más acciones ("...") con la aplicación: Configuración administrada, Permisos, Configuración avanzada y Quitar aplicación.

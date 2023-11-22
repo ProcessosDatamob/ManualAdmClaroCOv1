@@ -4,6 +4,6 @@ Como se ve en la sección anterior, puede acceder al token de registro de dispos
 
 ![](<../../.gitbook/assets/13 (5).png>)
 
-1. El código QR de la política se puede leer en pantalla para el proceso de registro de dispositivos o se puede copiar y enviar a los usuarios de los dispositivos.
+1. El código QR de la política se puede leer en pantalla para el proceso de registro de dispositivos o se puede copiar e ingresarla para aquellos dispositivos que fallen al momento de intentar leer el código QR).
 2. El token de registro de directivas se puede copiar y enviar.
 3. La configuración Zero Touch de la política se puede copiar para insertarla en el panel Zero Touch (detalles en la sección [Zero Touch](../../zero-touch.md)).
