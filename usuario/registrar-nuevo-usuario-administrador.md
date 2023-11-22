@@ -6,11 +6,7 @@ Para crear un usuario administrador, haga clic en el menú "Usuarios" y seleccio
 
 <figure><img src="../.gitbook/assets/Captura de tela 2023-11-06 172415.png" alt=""><figcaption></figcaption></figure>
 
-Al acceder a la pantalla, el sistema no permitirá cambiar la información del campo "Empresa"
-
-Pues es esencial para el correcto funcionamiento de las reglas del sistema. Proceda con los
-
-Siguientes pasos:
+Al acceder a la pantalla, el sistema no permitirá cambiar la información del campo "Empresa" pues es esencial para el correcto funcionamiento de las reglas del sistema. Proceda con los siguientes pasos:
 
 1. Rellene el nombre de usuario.
 2. Si desea, ingrese un código de identificación para el usuario.

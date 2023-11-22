@@ -11,8 +11,8 @@ Para saber cómo utilizar esta pantalla siga los pasos descritos en esta sesión
 <figure><img src="../.gitbook/assets/Captura de tela 2023-11-06 171325 (2).png" alt=""><figcaption></figcaption></figure>
 
 2. Seleccione el intervalo de fechas que desea consultar la información;
-3. Utilizar el campo "Usuarios" si desea consultar información de un usuario específico;
-4. Es posible también filtrar por actividad a través del campo "Actividades", siendo que los tipos disponibles son: Inserción, Exclusión, Edición, Términos de Uso y Política de Privacidad;
+3. Utilice el campo "Usuarios" si desea consultar información de un usuario específico;
+4. Es posible también filtrar por actividad a través del campo "Actividades", las opciones disponibles son: Inserción, Exclusión, Edición, Términos de Uso y Política de Privacidad;
 5. Se puede seleccionar también el tipo de categoría, siendo ellas: Empresa, dispositivo o Política;
 6. Para exportar la información en Excel, simplemente haga clic en el botón "Excel"
 

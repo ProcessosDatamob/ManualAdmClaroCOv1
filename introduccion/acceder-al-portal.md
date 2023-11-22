@@ -1,6 +1,6 @@
 # Acceder al portal
 
-Cuando el producto \<NomeProduto> es habilitado para una empresa, las siguientes tareas son ejecutadas por el sistema, para permitir el acceso del usuario administrador de la empresa al Portal:
+Cuando el producto **\<NomeProduto**> es habilitado para una empresa, las siguientes tareas son ejecutadas por el sistema, para permitir el acceso del usuario administrador de la empresa al Portal:
 
 * Creación de las credenciales del Portal de Administración;
 * Envío de un correo electrónico de bienvenida que contiene las credenciales y un enlace para acceder al Portal de Administración.
@@ -18,16 +18,16 @@ En su primer acceso, después de hacer clic en "Iniciar sesión", el usuario deb
 
 ![](<../.gitbook/assets/1 (19).png>)
 
-1. Confirme el nombre de empresa y correo electrónico;
+1. Confirme el nombre de empresa y correo electrónico (se sugiere utilizar la misma cuenta de correo de administrador de la empresa usada para ingresar al portal);&#x20;
 2. Cree una contraseña;
 3. Repita el ingreso de la contraseña para confirmarla;
-4. Marque la casilla acepto la política de privacidad y los términos de uso la Política de privacidad y los Términos de uso;
+4. Marque las casillas: “Estoy de acuerdo con la política de privacidad” y “Estoy de acuerdo con los términos de uso del usuario”;
 5. Pulse el botón "Siguiente'.
 
 {% hint style="info" %}
 **NOTA**
 
-**La Política de privacidad** - puede ser leída y debe ser aceptada en el primer acceso al \<NomeProduto> y permanece siempre disponible en la pantalla de login. En la aplicación \<NomeProduto> está presente en el momento de la activación del dispositivo.
+**La Política de privacidad** - puede ser leída y debe ser aceptada en el primer acceso al **\<NomeProduto>** y permanece siempre disponible en la pantalla de login. En la aplicación **\<NomeProduto>** está presente en el momento de la activación del dispositivo.
 
 **Términos de uso del usuario** - pueden ser leídos y deben ser aceptados en el primer acceso al portal y en el primer acceso a la aplicación.
 {% endhint %}
@@ -48,11 +48,13 @@ Si no ha recibido el token por correo electrónico, el usuario puede solicitar q
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-Después de esta confirmación, el sistema abrirá la pantalla de Google Play. Este es el paso final del primer acceso al Portal. En esta pantalla se llevará a cabo la configuración de una cuenta de Google Play para la empresa. Este paso es importante para que la empresa administre las aplicaciones que estarán disponibles en sus dispositivos. La pantalla se muestra a continuación.
+Después de esta confirmación, el sistema abrirá la pantalla de Google Play. Este es el paso final del primer acceso al Portal. En esta pantalla se llevará a cabo la configuración de una cuenta de Google Play para la empresa. Este paso es importante para que la empresa administre las aplicaciones que estarán disponibles en sus dispositivos. La cuenta a utilizar deberá ser de Google (@gmail.com) y no deberá estar integrada a GSuite/Google Workspace.
+
+La pantalla de configuración se muestra a continuación.
 
 ![](<../.gitbook/assets/4 (14).png>)
 
-En la pantalla de Google Play, use el botón "Iniciar sesión" para elegir una cuenta o registrar una nueva. Es importante destacar que Google no acepta cuentas GSuite y se recomienda crear una cuenta común para la empresa (ejemplo de una cuenta común: [nombre@google.com](mailto:nombre@google.com)).
+En la pantalla de Google Play, use el botón "Iniciar sesión" para elegir una cuenta o registrar una nueva. Es importante destacar que Google no acepta cuentas GSuitee/Google Workspace y se recomienda crear una cuenta común para la empresa (ejemplo de una cuenta común: [nombre@google.com](mailto:nombre@google.com)).
 
 Durante la creación de esta cuenta de Google se le pedirá más información en la pantalla "Detalles de contacto". La información solicitada podrá ser utilizada por Google para ponerse en contacto en caso de preguntas o notificaciones relacionadas con la privacidad o seguridad de los datos en sus servidores.
 
@@ -60,9 +62,9 @@ La pantalla de "Detalles de contacto" se muestra a continuación.
 
 ![](<../.gitbook/assets/5 (13).png>)
 
-Lea la información de orientación de Google Play Administrada y complete los datos de la persona de la empresa que será el contacto oficial de protección de datos y la persona que será el representante de la Unión Europea. Los dos campos se pueden rellenar con el mismo contacto de la empresa. Esta información se puede administrar posteriormente en el Portal del Administrador de \<NomeProduto> en el menú "Empresas", submenú "Información de la Empresa".
+Lea la información de orientación de Google Play Administrada y complete los datos de la persona de la empresa que será el contacto oficial de protección de datos y la persona que será el representante de la Unión Europea. Los dos campos se pueden rellenar con el mismo contacto de la empresa. Esta información puede omitirse en esta etapa y administrarse posteriormente en el Portal del Administrador de **\<NomeProduto>** en el menú "Empresas", submenú "Información de la Empresa".
 
-Después de confirmar los datos, se mostrará la pantalla del Portal de administración \<NomeProduto> con el mensaje "¡Felicidades! Su empresa se ha registrado correctamente en Android Enterprise."
+Después de confirmar los datos, se mostrará la pantalla del Portal de administración **\<NomeProduto>** con el mensaje "¡Felicidades! Su empresa se ha registrado correctamente en Android Enterprise."
 
 ![](<../.gitbook/assets/6 (13).png>)
 

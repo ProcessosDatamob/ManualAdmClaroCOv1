@@ -1,6 +1,6 @@
 # DASHBOARD
 
-Esta pantalla del sistema tiene como objetivo permitir al usuario la visualización y análisis de los diversos datos de consumos y usos recolectados de los dispositivos. Todos estos datos se detallarán en esta sección.
+Esta pantalla del sistema tiene como objetivo permitir al usuario la visualización y análisis de los diversos datos de consumo y uso obtenidos de los dispositivos. Todos estos datos se detallarán en esta sección.
 
 Para saber cómo acceder y analizar los datos mostrados en el Dashboard, siga los pasos descritos en esta sección.
 
@@ -8,7 +8,7 @@ Para saber cómo acceder y analizar los datos mostrados en el Dashboard, siga lo
 
 <figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
-Al acceder a la pantalla, toda la información se mostrará separada por secciones. Cada sección corresponde a un dato diferente, recogido del dispositivo y toda la información se muestra de acuerdo con las opciones seleccionadas en el filtro (Empresa, Grupo o Usuario).
+Al acceder a la pantalla, toda la información se mostrará separada por secciones. Cada sección corresponde a un dato diferente, obtenido del dispositivo y toda la información se muestra de acuerdo con las opciones seleccionadas en el filtro (Empresa, Grupo o Usuario).
 
 2. Al habilitar la opción de filtro "Roaming internacional", el sistema solo mostrará la información del consumo total de datos móviles del dispositivo y el consumo de SMS registrada cuando el dispositivo esté usando una conexión de roaming, pero no será posible ver el consumo de datos por aplicación y sitios web accedidos. No se muestran consumos en Wi-Fi ni en otras redes.
 
@@ -31,25 +31,25 @@ Los filtros "Empresa", "Grupo" y "Usuario" permiten realizar un análisis de los
 6. En la esquina superior derecha de la pantalla, tenemos algunos iconos que tienen las siguientes características:
 
 * Notificaciones - En el icono ![](https://lh7-us.googleusercontent.com/LIqOOPLli\_-KQv0gbnkeBAgAG1\_EOWziv1kRkMmMtO2dOIvA17vDOpWbmtTw5\_2RUg1D-mUt1PWNvciaKyYAHysUPk47UBQ8yIufI8DmrX523Zqn\_ntcDKa0ff0KqkWZeeaDLHoJF9MB762IkIm6vw)el administrador puede ver las notificaciones del portal, por ejemplo, al solicitar la generación de un reporte.
-* Salir - En el icono ![](https://lh7-us.googleusercontent.com/j1m2nV5Ek3EskKpbxU7f3L0pjGzk6bS\_IIhQcyG4gRWelRLC\_6CN6hWe5Q0n6z9dbN0vBiMMud6KV3tcG32wbF2i5trJ4F\_LxOeabAJFWyk3CJHmOgKvA8k9rmZqgc2yYZ\_fvvqCrdaxIesPrvL0nw) el administrador puede salir del portal y también está disponible allí el número de versión;
+* Admin - En el icono ![](https://lh7-us.googleusercontent.com/XnN5TtWJIzJYNZfcb\_18o7Mzx\_RrJYRxyodSpfkBQuPCce64vPyFVeN6g6umpqRYxKpCZ\_v8JGiU3iuMYa4vOmakPCagWJmIJFLK3dsOj3f7Ta1mH0KwNpxCTIGDJ5xs1IUicW1Ncuv2XJcBMyJvGg) despliega la opción para que el administrador pueda salir del portal y también muestra la versión actual de la solución el número de versión;
 
 <figure><img src=".gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 **Barra de Estado**
 
-La barra de estado de Dashboard muestra la situación actual de todos los usuarios y licencias de la empresa.
+La barra de estado de Dashboard muestra el estatus actual de todos los usuarios y licencias de la empresa.
 
 ![](<.gitbook/assets/18 (8).png>)
 
 **Total de Usuarios**
 
-Este indicador muestra el número total de usuarios de dispositivos que utilizan la aplicación <mark style="background-color:orange;">\<NomeProduto></mark>.
+Este indicador muestra el número total de usuarios de dispositivos que utilizan la aplicación **\<NomeProduto>.**
 
 ![](<.gitbook/assets/19 (7).png>)
 
 **Total de Licencias**
 
-Este indicador muestra el número total de licencias disponibles en el portal \<NomeProduto>.
+Este indicador muestra el número total de licencias disponibles en el portal **\<NomeProduto>**.
 
 ![](<.gitbook/assets/20 (6).png>)
 
