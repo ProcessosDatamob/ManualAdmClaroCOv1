@@ -11,7 +11,7 @@ Las opciones del menú de configuración son:
 * **Administrar políticas -** enumera todas las políticas ya registradas y le permite buscar, editar, copiar, generar reportes, eliminar y generar token para la activación de dispositivos.
 * **Registrar nueva política -** le permite crear una política y todas sus configuraciones.
 * **Perfil de Consumo -** permite registrar el perfil de consumo para empresa, grupo y usuario.
-* **Administrar Redes wifi** - le
+* **Administrar Redes wifi** - le permite incluir redes wifi para usarlas en las políticas.
 
 ![](<../.gitbook/assets/0 (23).png>)
 
