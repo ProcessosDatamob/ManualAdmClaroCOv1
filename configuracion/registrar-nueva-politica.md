@@ -10,9 +10,8 @@ La pantalla de inicio del registro de políticas se muestra a continuación.
 
 Para registrar una nueva política, siga los siguientes pasos:
 
-1. Escriba un nombre para la directiva.
-2. Elija uno de los modos de administración de directivas:
-
-* **Android: Totalmente Administrado -** Para dispositivos propiedad de la empresa. Permite la gestión de una amplia variedad de configuraciones de dispositivos y controles de políticas.
+1. Escriba un nombre para la política.
+2. El modo de gestión ya estará activado como "Android: Totalmente Administrado" - Para dispositivos propiedad de la empresa. Permite la gestión de una amplia variedad de configuraciones de dispositivos y controles de políticas.&#x20;
+3. Haga clic  en "Registrar"
 
 Después del registro de la política se abrirá la pantalla "Editar política" para que se configuren los detalles de la política.&#x20;

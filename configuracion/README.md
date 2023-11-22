@@ -2,9 +2,9 @@
 
 El menú de configuración permite acceder a la configuración de los perfiles de consumo y de las políticas de administración de dispositivos.
 
-Una directiva define un conjunto de configuraciones que pueden aplicarse a un dispositivo o a un conjunto de dispositivos. Los cambios en la configuración de una directiva actualizarán automáticamente todos los dispositivos vinculados a dicha directiva.
+Una política define un conjunto de configuraciones que pueden aplicarse a un dispositivo o a un conjunto de dispositivos. Los cambios en la configuración de una política actualizarán automáticamente todos los dispositivos vinculados a dicha directiva.
 
-Una directiva se puede aplicar a un dispositivo durante el registro o posteriormente. En el sistema no hay limitaciones en cuanto al número de políticas creadas.
+Una política se puede aplicar a un dispositivo durante el registro o posteriormente. En el sistema no hay limitaciones en cuanto al número de políticas creadas.
 
 Las opciones del menú de configuración son:
 
