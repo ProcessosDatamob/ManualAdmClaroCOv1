@@ -38,6 +38,7 @@
     * [Aplicaciones](configuracion/editar-politica/aplicaciones.md)
     * [Modo Quiosco](configuracion/editar-politica/modo-quiosco.md)
   * [Perfil de Consumo](configuracion/perfil-de-consumo.md)
+  * [Administrar Redes Wifi](configuraciones/administrar-redes-wifi.md)
 * [BLOQUEO DE SITIOS WEB - SECURITY BROWSER](bloqueo-de-sitios-web-security-browser.md)
 * [DISPOSITIVOS](dispositivos/README.md)
   * [Lista de Dispositivos](dispositivos/lista-de-dispositivos/README.md)
