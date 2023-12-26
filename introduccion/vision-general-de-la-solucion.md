@@ -14,11 +14,11 @@ La aplicación Security Browser está disponible en Play Store y debe incluirse 
 
 Desde el Portal **\<NomeProduto**> es posible acceder a la información sobre el consumo y uso de los dispositivos asignados a los empleados de la empresa. También es posible definir políticas de bloqueos para restringir el uso indebido de los dispositivos, permitiendo al administrador evaluar y aumentar la productividad de los empleados, a través del análisis y la gestión de los recursos de telecomunicaciones de la empresa.
 
-**Envío de Información**
+**Flujo de Datos**&#x20;
 
 Toda la información recopilada por la aplicación **\<NomeProduto>** se envía periódicamente a los servidores del sistema.  Los datos de consumo recopilados por la aplicación se envían de acuerdo con el tiempo configurado en el portal, en la opción "Sincronizar cada", que varía de 60 minutos a 24 horas.
 
-Los datos de localización se recogen cada 3 minutos en la aplicación y se envía al portal cada 15 minutos.&#x20;
+Los datos de localización se recogen cada 3 minutos en la aplicación y se envía al portal de acuerdo con la opción de sincronización elegida.&#x20;
 
 **Almacenamiento de datos**
 
@@ -43,6 +43,8 @@ El producto CME fue creado en asociación con Google en el programa Android Ente
 
 El sello Android Enterprise Recommended identifica dispositivos Android que cumplen con ciertos estándares de seguridad, rendimiento y gestión adecuados para su uso en entornos empresariales. Cuando un dispositivo recibe la certificación "Android Enterprise Recommended", esto significa que ha pasado por pruebas rigurosas y cumple con requisitos específicos establecidos por Google.
 
-Es que un dispositivo no se encuentre en la lista de recomendados de Google no significa que no funcionará. Actualmente, Android Enterprise es compatible con todas las versiones de Android desde Android 6.0. Sin embargo, algunas características pueden no estar disponibles en versiones anteriores del sistema operativo. Se recomienda utilizar las versiones más nuevas de Android para aprovechar todas las características y beneficios que ofrece la plataforma.
+El que un dispositivo no se encuentre en la lista de recomendados de Google no significa que no funcionará. Actualmente, Android Enterprise es compatible con todas las versiones de Android desde Android 6.0. Sin embargo, algunas características pueden no estar disponibles en versiones anteriores del sistema operativo. Se recomienda utilizar las versiones más nuevas de Android para aprovechar todas las características y beneficios que ofrece la plataforma.
 
-Importante destacar que **\<NomeProduto>** no fue desarrollado con  Google Android Enterprise y otras tecnologías adicionales, esto significa que algunas funciones, como por ejemplo, localización, consumo de batería y almacenamiento, pueden presentar comportamiento diferente del esperado dependiendo de las configuraciones del sistema operativo del dispositivo. &#x20;
+Importante destacar que **\<NomeProduto>** fue desarrollado con  Google Android Enterprise y otras tecnologías adicionales, esto significa que algunas funciones, como por ejemplo, localización, consumo de batería y almacenamiento, pueden presentar comportamiento diferente del esperado dependiendo de las configuraciones del sistema operativo del dispositivo. &#x20;
+
+\
