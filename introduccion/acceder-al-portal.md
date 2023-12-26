@@ -8,7 +8,8 @@ Cuando el producto **\<NomeProduto**> es habilitado para una empresa, las siguie
 Para acceder al Portal de Administración, siga los pasos descritos en esta sección.
 
 1. Accede a la dirección \<EnderecoProduto> para ver la pantalla de acceso del Portal. De preferencia, utilice el navegador Google Chrome, con la versión más actualizada.
-2. Para cambiar el idioma del sistema, seleccione el idioma en la parte superior derecha de la pantalla. Los idiomas del sistema son español, portugués e inglés.
+2. Para cambiar el idioma del sistema, seleccione el idioma en la parte superior derecha de la pantalla. Los idiomas del sistema son español, portugués e inglés. \
+   Nota: Después de ingresar al portal, el idioma mostrado será aquel configurado en el registro del usuario. Para cambiar el idioma, se debe acceder al menú "Usuarios" y luego a "Gestionar Usuarios Administradores".
 3. Ingrese los campos "Correo electrónico" y "Contraseña" con las credenciales de acceso recibidas en el correo electrónico de bienvenida.
 4. Haga clic en "Iniciar sesión" para confirmar la información y acceder al Portal.
 
@@ -27,7 +28,7 @@ En su primer acceso, después de hacer clic en "Iniciar sesión", el usuario deb
 {% hint style="info" %}
 **NOTA**
 
-**La Política de privacidad** - puede ser leída y debe ser aceptada en el primer acceso al **\<NomeProduto>** y permanece siempre disponible en la pantalla de login. En la aplicación **\<NomeProduto>** está presente en el momento de la activación del dispositivo.
+**La Política de privacidad** - puede ser leída y debe ser aceptada en el primer acceso al  Portal **\<NomeProduto>** y permanece siempre disponible en la pantalla de login. En la aplicación **\<NomeProduto>** está presente en el momento de la activación del dispositivo.
 
 **Términos de uso del usuario** - pueden ser leídos y deben ser aceptados en el primer acceso al portal y en el primer acceso a la aplicación.
 {% endhint %}
@@ -48,9 +49,11 @@ Si no ha recibido el token por correo electrónico, el usuario puede solicitar q
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-Después de esta confirmación, el sistema abrirá la pantalla de Google Play. Este es el paso final del primer acceso al Portal. En esta pantalla se llevará a cabo la configuración de una cuenta de Google Play para la empresa. Este paso es importante para que la empresa administre las aplicaciones que estarán disponibles en sus dispositivos. La cuenta a utilizar deberá ser de Google (@gmail.com) y no deberá estar integrada a GSuite/Google Workspace.
+Después de esta confirmación, el sistema abrirá la pantalla de Google Play. Este es el paso final del primer acceso al Portal. En esta pantalla se llevará a cabo la configuración de una cuenta de Google Play para la empresa. Este paso es importante para que la empresa administre las aplicaciones que estarán disponibles en sus dispositivos.&#x20;
 
-La pantalla de configuración se muestra a continuación.
+Para la creación de esta cuenta, se puede utilizar un correo electrónico ya existente (por ejemplo, @gmail.com, @hotmail o @outlook) o crear un nuevo correo electrónico. Por restricción de Google, el correo electrónico utilizado no puede estar integrado a G Suite/Google Workspace.
+
+La pantalla de Google Play se muestra a continuación.
 
 ![](<../.gitbook/assets/4 (14).png>)
 
