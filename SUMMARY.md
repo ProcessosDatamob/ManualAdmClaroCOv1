@@ -1,9 +1,9 @@
 # Table of contents
 
 * [INTRODUCCIÓN](README.md)
-  * [Visión general de la solución](introduccion/vision-general-de-la-solucion.md)
-  * [Acceder al portal](introduccion/acceder-al-portal.md)
-  * [Configuración inicial y niveles](introduccion/configuracion-inicial-y-niveles.md)
+* [Visión general de la solución](vision-general-de-la-solucion.md)
+* [Acceder al portal](acceder-al-portal.md)
+* [Configuración inicial y niveles](configuracion-inicial-y-niveles.md)
 * [DASHBOARD](dashboard.md)
 * [EMPRESA](empresa/README.md)
   * [Información de la empresa](empresa/informacion-de-la-empresa.md)
