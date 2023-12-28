@@ -4,7 +4,7 @@ Esta pantalla del sistema tiene como objetivo permitir al usuario la visualizaci
 
 Para saber cómo acceder y analizar los datos mostrados en el Dashboard, siga los pasos descritos en esta sección.
 
-1. La pantalla de Dashboard puede ser considerada la "Pantalla de Inicio" del sistema, pues se muestra tan pronto accedas al Portal, pero también se puede acceder haciendo clic en el menú "Dashboard". En un primer acceso, los indicadores de usuarios, dispositivos y consumos no tendrán aún información, por lo que estarán en cero.
+1. La pantalla de Dashboard puede ser considerada la "Pantalla de Inicio" del sistema, pues se muestra inmediatamente después de que el usuario acceda al Portal, pero también se puede acceder haciendo clic en el menú "Dashboard". En un primer acceso, los indicadores de usuarios, dispositivos y consumos no tendrán aún información, por lo que estarán en cero.
 
 <figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
@@ -31,37 +31,37 @@ Los filtros "Empresa", "Grupo" y "Usuario" permiten realizar un análisis de los
 6. En la esquina superior derecha de la pantalla, tenemos algunos iconos que tienen las siguientes características:
 
 * Notificaciones - En el icono ![](https://lh7-us.googleusercontent.com/LIqOOPLli\_-KQv0gbnkeBAgAG1\_EOWziv1kRkMmMtO2dOIvA17vDOpWbmtTw5\_2RUg1D-mUt1PWNvciaKyYAHysUPk47UBQ8yIufI8DmrX523Zqn\_ntcDKa0ff0KqkWZeeaDLHoJF9MB762IkIm6vw)el administrador puede ver las notificaciones del portal, por ejemplo, al solicitar la generación de un reporte.
-* Admin - En el icono ![](https://lh7-us.googleusercontent.com/XnN5TtWJIzJYNZfcb\_18o7Mzx\_RrJYRxyodSpfkBQuPCce64vPyFVeN6g6umpqRYxKpCZ\_v8JGiU3iuMYa4vOmakPCagWJmIJFLK3dsOj3f7Ta1mH0KwNpxCTIGDJ5xs1IUicW1Ncuv2XJcBMyJvGg) despliega la opción para que el administrador pueda salir del portal y también muestra la versión actual de la solución el número de versión;
+* Admin - En el icono ![](https://lh7-us.googleusercontent.com/XnN5TtWJIzJYNZfcb\_18o7Mzx\_RrJYRxyodSpfkBQuPCce64vPyFVeN6g6umpqRYxKpCZ\_v8JGiU3iuMYa4vOmakPCagWJmIJFLK3dsOj3f7Ta1mH0KwNpxCTIGDJ5xs1IUicW1Ncuv2XJcBMyJvGg) despliega la opción para que el administrador pueda salir del portal y también muestra la versión actual de la solución el número de versión.
 
 <figure><img src=".gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
-**Barra de Estado**
+## **Barra de Estado**
 
 La barra de estado de Dashboard muestra el estatus actual de todos los usuarios y licencias de la empresa.
 
 ![](<.gitbook/assets/18 (8).png>)
 
-**Total de Usuarios**
+## **Total de Usuarios**
 
 Este indicador muestra el número total de usuarios de dispositivos que utilizan la aplicación **\<NomeProduto>.**
 
 ![](<.gitbook/assets/19 (7).png>)
 
-**Total de Licencias**
+## **Total de Licencias**
 
 Este indicador muestra el número total de licencias disponibles en el portal **\<NomeProduto>**.
 
 ![](<.gitbook/assets/20 (6).png>)
 
-**Licencias sin uso**
+## **Licencias sin uso**
 
 Este indicador muestra el número total de licencias que no tienen dispositivo registrado en el portal. Es decir, son las licencias disponibles.
 
-Al hacer clic en este indicador, el sistema mostrará la pantalla "Licencias contratadas". Para saber cómo usar esta pantalla, lea la sección "Licencias contratadas".
+Al hacer clic en este indicador, el sistema mostrará la pantalla "Licencias contratadas". Para saber cómo usar esta pantalla, lea la sección "[Licencias contratadas](empresa/licencias-contratadas.md)".
 
 ![](<.gitbook/assets/21 (1).png>)
 
-**Dispositivos**
+## **Dispositivos**
 
 Este indicador muestra el número total de dispositivos que están activos en el sistema y los dispositivos sin comunicación. Además, permite al administrador tener la visibilidad de los dispositivos que están en Modo Quiosco.
 
@@ -76,20 +76,20 @@ Descrição gerada automaticamente com confiança baixa](<.gitbook/assets/1 (17)
 
 Esta falta de comunicación puede ocurrir cuando el dispositivo se encuentra en las siguientes situaciones:
 
-* Desconectado;
-* Sin conexión a Internet;
+* Desconectado.
+* Sin conexión a Internet.
 * Aplicación desinstalada.
 
 El cálculo de tiempo para considerar el dispositivo sin comunicación se basa en dos datos enviados por el dispositivo:
 
-* Envío de consumos generales/información del dispositivo;
+* Envío de consumos generales/información del dispositivo.
 * Envío periódico de estado "Activo".
 
 En caso de que pase más de 10 minutos y el Portal no reciba un de estos datos, el dispositivo es considerado como "Sin comunicación" y envía un comando al dispositivo para intentar restablecer la comunicación. Dependiendo de la situación del dispositivo, el restablecimiento de la comunicación puede ocurrir o no.
 
 Al hacer clic en este indicador, el sistema mostrará una pantalla que contiene el reporte con la información de los dispositivos que no se comunican.
 
-**Consumo de Datos**
+## **Consumo de Datos**
 
 Este indicador muestra el porcentaje de consumo de datos móviles de los dispositivos durante el ciclo con respecto al límite total configurado en el perfil de consumo. Si no se establece un límite en el perfil de consumo, el gráfico no muestra el porcentaje y el sistema solo muestra el valor total de datos en MB utilizado.
 
@@ -97,7 +97,7 @@ Este indicador muestra el porcentaje de consumo de datos móviles de los disposi
 
 Descrição gerada automaticamente](<.gitbook/assets/2 (17).png>)
 
-**Consumo de SMS**
+## **Consumo de SMS**
 
 Este indicador muestra el porcentaje de consumo de SMS enviados por los dispositivos durante el ciclo con respecto al límite total configurado en el perfil de consumo. Si no se establece un límite en el perfil de consumo, el gráfico no muestra el porcentaje y solo muestra el valor total de SMS utilizado.
 
@@ -105,7 +105,7 @@ Este indicador muestra el porcentaje de consumo de SMS enviados por los disposit
 
 Descrição gerada automaticamente](<.gitbook/assets/3 (15).png>)
 
-**Consumo de Datos por Aplicación**
+## **Consumo de Datos por Aplicación**
 
 Este gráfico muestra las 5 aplicaciones que más han consumido datos móviles durante el ciclo. Los datos mostrados se ordenan en porcentaje.
 
@@ -117,19 +117,19 @@ Al hacer clic en el botón “Ver lista completa” el sistema exhibirá en pant
 
 Descrição gerada automaticamente](<.gitbook/assets/4 (12).png>)
 
-**Consumo de Datos por Usuario**
+## **Consumo de Datos por Usuario**
 
 Esta gráfica muestra los 5 usuarios que más han consumido datos móviles durante el ciclo. Los datos mostrados se ordenan en porcentaje.
 
 El valor porcentual de cada uno de los 5 usuarios se calcula en relación con la suma total de consumo de todos los usuarios durante el ciclo.
 
-Al hacer clic en el botón "Ver lista completa" el sistema mostrará la pantalla con la información de consumo de la empresa. Para saber cómo utilizar esta pantalla, lea la sección "[Consumo dela empresa](empresa/consumo-de-la-empresa.md)" de este manual.
+Al hacer clic en el botón "Ver lista completa" el sistema mostrará la pantalla con la información de consumo de la empresa. Para saber cómo utilizar esta pantalla, lea la sección "[Consumo de la empresa](empresa/consumo-de-la-empresa.md)" de este manual.
 
 ![Gráfico
 
 Descrição gerada automaticamente](<.gitbook/assets/5 (11).png>)
 
-**Tiempo de uso por aplicación**
+## **Tiempo de uso por aplicación**
 
 Este gráfico muestra las 5 aplicaciones más utilizadas durante el ciclo. Este tiempo se cuenta solo cuando la aplicación está en uso, y no necesita estar consumiendo datos. Las aplicaciones en segundo plano no se contabilizan en este análisis. También no se contabilizan uso en Wi-Fi ni en otras redes.
 
@@ -139,7 +139,7 @@ Al hacer clic en el botón "Ver lista completa" el sistema mostrará la pantalla
 
 ![](<.gitbook/assets/6 (11).png>)
 
-**Inventario de Dispositivos**
+## **Inventario de Dispositivos**
 
 Este indicador muestra el porcentaje de los 5 fabricantes de dispositivos activos. El valor porcentual de cada uno de los 5 fabricantes se calcula en relación con la suma total de todos los dispositivos activos.
 
@@ -147,29 +147,29 @@ Este indicador muestra el porcentaje de los 5 fabricantes de dispositivos activo
 
 Descrição gerada automaticamente](<.gitbook/assets/7 (10).png>)
 
-**Sitios más visitados**
+## **Sitios más visitados**
 
 Este indicador muestra el porcentaje de los 5 sitios más visitados en los dispositivos durante el ciclo. El valor porcentual de cada uno de los 5 sitios se calcula en relación a la suma total de todos los accesos a los sitios durante el ciclo.
 
 {% hint style="warning" %}
 **ATENCIÓN**
 
-Los sitios web visitados son obtenidos por el navegador web predeterminado del sistema Control Móvil Empresarial. Este navegador se llama Security Browser y necesita estar instalado y configurado en los dispositivos. Para obtener más información sobre la administración y configuración del navegador, visite el capítulo 16 Security Browser.
+Los sitios web visitados son obtenidos por el navegador web predeterminado del sistema  **\<NomeProduto>**. Este navegador se llama Security Browser y necesita estar instalado y configurado en los dispositivos. Para obtener más información sobre la administración y configuración del navegador, visite la sección "[Security Browser"](bloqueo-de-sitios-web-security-browser.md).
 {% endhint %}
 
 ![Gráfico, Gráfico de barras
 
 Descrição gerada automaticamente](<.gitbook/assets/8 (10).png>)
 
-**Indicador de Consumo y su Historial**
+## **Indicador de Consumo y su Historial**
 
-Este indicador muestra en porcentaje los datos móviles y SMS consumidos en los últimos 6 ciclos. Para realizar el análisis individual de los consumos de datos móviles o SMS, acceda al punto "Consumos" en el menú "Empresa".
+Este indicador muestra en porcentaje los datos móviles y SMS consumidos en los últimos 6 ciclos. Para realizar el análisis individual de los consumos de datos móviles o SMS, acceda al punto "[Consumos de la empresa](empresa/consumo-de-la-empresa.md)" en el menú "[Empresa](empresa/)".
 
 ![Gráfico, Gráfico de barras
 
 Descrição gerada automaticamente](<.gitbook/assets/9 (10).png>)
 
-**Indicador de Nuevos Usuarios de dispositivos y su Historial**
+## **Indicador de Nuevos Usuarios de dispositivos y su Historial**
 
 Este indicador muestra la cantidad de usuarios de dispositivos activados en los últimos 6 ciclos y la evolución de los nuevos usuarios del ciclo actual con respecto a los del trimestre y del semestre.
 
