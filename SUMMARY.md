@@ -1,9 +1,9 @@
 # Table of contents
 
-* [INTRODUCCIÓN](README.md)
-  * [Compatibilidad de dispositivos](introduccion/compatibilidad-de-dispositivos.md)
+* [INFORMACIÓN GENERAL](README.md)
+  * [Compatibilidad de dispositivos](informacion-general/compatibilidad-de-dispositivos.md)
 * [ACCEDER AL PORTAL](acceder-al-portal.md)
-* [CONFIGURACIÓN INICIAL Y NIVELES](configuracion-inicial-y-niveles.md)
+* [CONFIGURACIÓN INICIAL Y NIVELES](introduccion/configuracion-inicial-y-niveles.md)
 * [DASHBOARD](dashboard.md)
 * [EMPRESA](empresa/README.md)
   * [Información de la empresa](empresa/informacion-de-la-empresa.md)

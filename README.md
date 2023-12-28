@@ -1,8 +1,8 @@
-# INTRODUCCIÓN
-
-## **Visión general de la solución**
+# INFORMACIÓN GENERAL
 
 El propósito de este manual es ayudar al usuario administrador en el uso y configuración del **\<NomeProduto>**.
+
+## **Visión general de la solución**
 
 **\<NomeProduto>** es una solución de gestión de movilidad empresarial que consta de:
 
@@ -39,4 +39,4 @@ El Portal de Administración tiene dos niveles de acceso:
 * Administrador del portal: este nivel brinda acceso completo a la información y le permite establecer políticas de bloqueo para dispositivos;
 * Administrador de grupo: este nivel da acceso a los datos de su grupo y permite enviar mensajes al grupo;
 
-Para saber cómo crear un administrador de portal o grupo, lea la sección "[Configuración inicial y niveles](configuracion-inicial-y-niveles.md)'.
+Para saber cómo crear un administrador de portal o grupo, lea la sección "[Configuración inicial y niveles](introduccion/configuracion-inicial-y-niveles.md)'.
