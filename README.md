@@ -18,13 +18,13 @@ La aplicación Security Browser está disponible en Play Store y debe incluirse 
 
 Desde el Portal **\<NomeProduto**> es posible acceder a la información sobre el consumo y uso de los dispositivos asignados a los empleados de la empresa. También es posible definir políticas de bloqueos para restringir el uso indebido de los dispositivos, permitiendo al administrador evaluar y aumentar la productividad de los empleados, a través del análisis y la gestión de los recursos de telecomunicaciones de la empresa.
 
-**Flujo de Datos**&#x20;
+## **Flujo de Datos**&#x20;
 
 Toda la información recopilada por la aplicación **\<NomeProduto>** se envía periódicamente a los servidores del sistema.  Los datos de consumo recopilados por la aplicación se envían de acuerdo con el tiempo configurado en el portal, en la opción "Sincronizar cada", que varía de 60 minutos a 24 horas.
 
 Los datos de localización se recogen cada 3 minutos en la aplicación y se envía al portal de acuerdo con la opción de sincronización elegida.&#x20;
 
-**Almacenamiento de datos**
+## **Almacenamiento de datos**
 
 Todos los datos del Portal permanecen almacenados durante 6 meses, después de lo cual la información se elimina de los servidores.
 
@@ -32,7 +32,7 @@ En caso de que los servidores de la solución no estén disponibles, la aplicaci
 
 Todos los datos enviados por el portal y recibidos por el dispositivo permanecen almacenados, lo que garantiza que las políticas de bloqueo permanezcan activas, incluso cuando no se tenga acceso a Internet e independientemente de la disponibilidad de los servidores. La conexión será necesaria solo para recibir nuevas políticas y mensajes o enviar los datos al Portal.
 
-**Nivel de Acceso al Portal**
+## **Nivel de Acceso al Portal**
 
 El Portal de Administración tiene dos niveles de acceso:
 
