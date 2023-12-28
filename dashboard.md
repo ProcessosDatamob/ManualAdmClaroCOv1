@@ -173,17 +173,17 @@ Descrição gerada automaticamente](<.gitbook/assets/9 (10).png>)
 
 Este indicador muestra la cantidad de usuarios de dispositivos activados en los últimos 6 ciclos y la evolución de los nuevos usuarios del ciclo actual con respecto a los del trimestre y del semestre.
 
-Para realizar el análisis individual de los usuarios de dispositivos, haga clic en "Lista de dispositivos" en el menú "Dispositivos".
+Para realizar el análisis individual de los usuarios de dispositivos, haga clic en "[Lista de dispositivos](dispositivos/lista-de-dispositivos/)" en el menú "[Dispositivos](dashboard.md#dispositivos)".
 
 ![Gráfico, Gráfico de barras
 
 Descrição gerada automaticamente](<.gitbook/assets/10 (9).png>)
 
-**Ubicación de los Dispositivos**
+## **Ubicación de los Dispositivos**
 
 El mapa muestra la última ubicación de los dispositivos. Para que la ubicación se muestre y actualice, el dispositivo debe estar conectado a Internet, debe haber señal GPS y la configuración de "Modo de Localización" debe estar "Activa" en Ubicación en la política aplicada al dispositivo.
 
-Lea la sección "Administrar políticas" de este manual para saber cómo activar el "Modo de ubicación" de los dispositivos.
+Lea la sección "[Administrar políticas](configuracion/administrar-politicas/)" de este manual para saber cómo activar el "Modo de ubicación" de los dispositivos.
 
 La ubicación de los dispositivos se muestra con un marcador en el mapa, que puede estar en color verde o rojo, dependiendo del estado del dispositivo (verde = enviando datos y rojo = sin envío de datos). Para ver la información de la ubicación, haga clic en el marcador.
 
@@ -193,7 +193,9 @@ Utilice los recursos del mapa para optimizar la visualización de las ubicacione
 
 ![](<.gitbook/assets/12 (8).png>)
 
-**Manuales para Descargar**
+En la sección “[GEOLOCALIZACIÓN](ubicacion/geolocalizacion.md)” se detalla esta y otras funcionalidades relacionadas a la ubicación.
+
+## **Manuales para Descargar**
 
 En esta pantalla tendremos acceso a los manuales descargables. Al hacer clic en "Más información", se mostrará la pantalla con Documentos y Materiales de Apoyo.
 
@@ -201,7 +203,7 @@ En esta pantalla tendremos acceso a los manuales descargables. Al hacer clic en 
 
 <figure><img src=".gitbook/assets/Captura de tela 2023-11-07 085758.png" alt=""><figcaption></figcaption></figure>
 
-**Alguna Duda**
+## **Alguna Duda**
 
 A través de la sesión “_Alguna duda?_" tendremos acceso a la pantalla donde es posible visualizar las preguntas frecuentes realizadas por los usuarios:
 
@@ -211,8 +213,6 @@ Al hacer clic en "Más información", nos dirigiremos a la siguiente pantalla, d
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-Al desplazar la pantalla más abajo, tendremos acceso a la lista de preguntas frecuentes
-
-Y al final de la página tendremos acceso también a los manuales de descarga, así como tenemos en el Dashboard.
+Al desplazar la pantalla más abajo, tendremos acceso a la lista de preguntas frecuentes y, al final de la página, tendremos acceso también a los manuales de descarga, así como tenemos en el Dashboard.
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
