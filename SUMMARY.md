@@ -2,8 +2,8 @@
 
 * [INFORMACIÓN GENERAL](README.md)
   * [Compatibilidad de dispositivos](informacion-general/compatibilidad-de-dispositivos.md)
-* [ACCEDER AL PORTAL](acceder-al-portal.md)
-* [CONFIGURACIÓN INICIAL Y NIVELES](introduccion/configuracion-inicial-y-niveles.md)
+  * [Acceder al portal](informacion-general/acceder-al-portal.md)
+  * [Configuración inicial y niveles](informacion-general/configuracion-inicial-y-niveles.md)
 * [DASHBOARD](dashboard.md)
 * [EMPRESA](empresa/README.md)
   * [Información de la empresa](empresa/informacion-de-la-empresa.md)
