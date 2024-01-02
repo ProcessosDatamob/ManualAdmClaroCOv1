@@ -8,7 +8,7 @@ Para saber cómo configurar la empresa siga los pasos descritos en esta sesión:
 
 <figure><img src="../.gitbook/assets/Captura de tela 2023-11-06 171325 (1).png" alt=""><figcaption></figcaption></figure>
 
-2. Seleccione el la gestión deseada.
+2. Seleccione la configuración deseada para cada campo.
 
 * **Inicio del ciclo -** Utilizamos este campo para definir la fecha de inicio de la contabilización de los datos que serán analizados.
 * **Sincronizar a cada -** Este campo define el tiempo de sincronización del portal, es decir, el tiempo para sincronizar con los datos recibidos de los dispositivos.
@@ -16,4 +16,4 @@ Para saber cómo configurar la empresa siga los pasos descritos en esta sesión:
 
 <figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
-3. Clique em "Atualizar".
+3. Haga clic en "Actualizar".
