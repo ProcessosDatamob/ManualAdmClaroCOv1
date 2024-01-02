@@ -17,7 +17,7 @@ Al acceder a la pantalla, el sistema no permitirá cambiar la información del c
 
 5. Seleccione el tipo de usuario:
 
-* **Responsable de Grupo -** Usuario administrador de grupo;
+* **Responsable de Grupo -** Usuario administrador de grupo.
 * **Responsable de Empresa -** Usuario administrador de la empresa.
 
 Si es un responsable de grupo, aparecerán más opciones:
@@ -26,4 +26,4 @@ Si es un responsable de grupo, aparecerán más opciones:
 
 ![](<../.gitbook/assets/2 (13).png>)
 
-7. Haga clic en el botón "Registrarse" para completar el registro del usuario
+7. Haga clic en el botón "Registrar" para completar el registro del usuario
