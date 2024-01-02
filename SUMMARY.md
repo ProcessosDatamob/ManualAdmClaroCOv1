@@ -12,7 +12,7 @@
   * [Configuración general](empresa/configuracion-general.md)
   * [Reporte de movimientos](empresa/reporte-de-movimientos.md)
 * [GRUPOS](grupos/README.md)
-  * [Crear grupos](grupos/crear-grupos.md)
+  * [Registrar Nuevo Grupo](grupos/registrar-nuevo-grupo.md)
   * [Administrar grupos](grupos/administrar-grupos.md)
 * [USUARIO](usuario/README.md)
   * [Registrar nuevo usuario administrador](usuario/registrar-nuevo-usuario-administrador.md)

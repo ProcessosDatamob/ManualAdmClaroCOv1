@@ -8,14 +8,13 @@ Para administrar un grupo, siga los pasos descritos a continuación.
 
 ![](<../.gitbook/assets/2 (12).png>)
 
-Al entrar en la pantalla, se muestra la lista de grupos registrados.
-
-2. Puede utilizar el filtro de teléfono para encontrar el grupo de un usuario.
-3. En el campo de búsqueda puede buscar un grupo específico.
-4. Para editar un grupo, haga clic en los tres puntos que aparecen a la derecha en la línea del grupo. Elija "Editar grupo". En la edición es posible incluir o excluir usuarios del grupo.
-5. Para eliminar un grupo, haga clic en los tres puntos que aparecen a la derecha en la línea del grupo. Elija "Eliminar grupo".
-6. Si lo desea, también puede copiar los datos mostrados sobre los grupos en el portapapeles o generar una hoja de cálculo Excel con los datos.
-7. Seleccione el botón "Registrarse Nuevo" para iniciar el registro de un nuevo grupo.
+2. Al entrar en la pantalla, se muestra la lista de grupos registrados.
+3. Puede utilizar el filtro de teléfono para encontrar el grupo de un usuario.
+4. En el campo de búsqueda puede buscar un grupo específico.
+5. Para editar un grupo, haga clic en los tres puntos que aparecen a la derecha en la línea del grupo. Elija "Editar grupo". En la edición es posible incluir o excluir usuarios del grupo.
+6. Para eliminar un grupo, haga clic en los tres puntos que aparecen a la derecha en la línea del grupo. Elija "Eliminar grupo".
+7. Si lo desea, también puede copiar los datos mostrados sobre los grupos en el portapapeles o generar una hoja de cálculo Excel con los datos.
+8. Seleccione el botón "Registrar Nuevo" para iniciar el registro de un nuevo grupo.
 
 Al finalizar los cambios en el grupo, el sistema volverá a la pantalla de administración de grupos.
 

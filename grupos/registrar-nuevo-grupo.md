@@ -1,4 +1,4 @@
-# Crear grupos
+# Registrar Nuevo Grupo
 
 Para crear un grupo, siga los pasos descritos en esta sección.
 
@@ -8,7 +8,7 @@ Para crear un grupo, siga los pasos descritos en esta sección.
 
 2. Al acceder a la pantalla, el sistema no permitirá alterar la información del campo "Empresa" pues es esencial para el correcto funcionamiento de las reglas del sistema.
 3. Rellene el nombre del grupo.
-4. Haga clic en "Registrarse" para completar el registro del nuevo grupo.
+4. Haga clic en "Registrar" para completar el registro del nuevo grupo.
 
 ![](<../.gitbook/assets/1 (12).png>)
 
