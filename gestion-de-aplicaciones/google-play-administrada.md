@@ -8,7 +8,7 @@ Después de iniciar sesión en el portal de administración, uno de los primeros
 * **Aplicaciones privadas -** sus propias aplicaciones Android para su empresa;
 * **Web Apps -** convertir una página web en una aplicación Android.
 
-Para acceder a Google Play Administrado, ve al menú "Administración de aplicaciones" y a la opción "Google Play Administrado".
+Para acceder a Google Play Administrado, ve al menú "Administración de aplicaciones" y a la opción "Google Play Administrada".
 
 <figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
@@ -16,24 +16,23 @@ La siguiente captura de pantalla muestra la pantalla de Google Play administrada
 
 ![](<../.gitbook/assets/7 (14).png>)
 
-* **Botón Buscar -** botón usado para buscar una aplicación;
-* **Buscar en Play Store -** permite buscar aplicaciones públicas;
-* **Aplicaciones privadas -** permite cargar aplicaciones propias de la empresa.
-* **Aplicaciones web -** permite crear aplicaciones web.
+1. **Botón Buscar -** botón usado para buscar una aplicación;
+2. **Buscar en Play Store -** permite buscar aplicaciones públicas;
+3. **Aplicaciones privadas -** permite cargar aplicaciones propias de la empresa.
+4. **Aplicaciones web -** permite crear aplicaciones web.
+5. Haga clic en la categoría deseada para mostrar más aplicaciones de la categoría.
+6. El botón "Ver más" muestra más aplicaciones en la misma categoría.
 
-1. Haga clic en la categoría deseada para mostrar más aplicaciones de la categoría.
-2. El botón "Ver más" muestra más aplicaciones en la misma categoría.
+## **Aplicaciones Públicas**
 
-**Aplicaciones Públicas**
+Para elegir una aplicación pública, vaya al menú "**Google Play Administrada**". La pantalla de inicio viene con la opción "**Buscar en la Play Store**" abierta. Haga clic en la aplicación y abrirá la pantalla de información de la aplicación. Para seleccionarla, haga clic en el botón "**Seleccionar**". Observe los elementos numerados en la siguiente pantalla:
 
-Para elegir una aplicación pública, vaya al menú "Google Play Administrada". La pantalla de inicio viene con la opción "Buscar en la Play Store" abierta. Haga clic en la aplicación y abrirá la pantalla de información de la aplicación. Para seleccionarla, haga clic en el botón "Seleccionar". Observe los elementos numerados en la siguiente pantalla:
-
-1. Botón "Seleccionar" para seleccionar una aplicación.
+1. Botón "**Seleccionar**" para seleccionar una aplicación.
 2. Flecha para volver a la pantalla de aplicaciones de Google Play.
 
 ![](<../.gitbook/assets/8 (14).png>)
 
-Al seleccionar una aplicación, el sistema solicitará confirmación antes de incluirla en la lista de aplicaciones. Haga clic en "Confirmar" para incluir la aplicación o seleccione "Cancelar" para no realizar la inclusión.
+Al seleccionar una aplicación, el sistema solicitará confirmación antes de incluirla en la lista de aplicaciones. Haga clic en "**Confirmar**" para incluir la aplicación o seleccione "**Cancelar**" para no realizar la inclusión.
 
 ![Interface gráfica do usuário, Aplicativo
 
@@ -41,7 +40,7 @@ Descrição gerada automaticamente](<../.gitbook/assets/9 (14).png>)
 
 Para ver la lista de las aplicaciones incluidas, vuelva a la pantalla "[Aplicaciones administradas](aplicaciones-administradas.md)".&#x20;
 
-**Aplicaciones Particulares**
+## **Aplicaciones Particulares**
 
 Para cargar aplicaciones propias de la empresa, siga los siguientes pasos:
 
@@ -60,19 +59,19 @@ Para cargar aplicaciones propias de la empresa, siga los siguientes pasos:
 Las aplicaciones privadas deben tener un nombre de paquete único que no se haya utilizado antes cuando se carga en su tienda administrada de Google Play.
 {% endhint %}
 
-**Aplicaciones Web**
+## **Aplicaciones Web**
 
 Una "aplicación web" convierte una página web en una aplicación para Android, por lo que es fácil de encontrar y usar en dispositivos móviles.
 
 Para crear una aplicación web, siga los siguientes pasos (numerados en la figura siguiente):
 
-1. Acceda al menú "Aplicaciones web";
+1. Acceda al menú "**Aplicaciones web**";
 2. Haga clic en el botón más en la esquina inferior derecha de la pantalla;
 
 ![](<../.gitbook/assets/12 (12).png>)
 
-3. Especifique un título que se mostrará en el dispositivo, en la Play Store administrada y en la lista y aplicaciones de la empresa
-4. Especifique la URL donde se abren las aplicaciones web
+3. Especifique un título que se mostrará en el dispositivo, en la Play Store administrada y en la lista y aplicaciones de la empresa.
+4. Especifique la URL donde se abren las aplicaciones web.
 5. Elija un modo de pantalla que defina cómo se muestra la aplicación web en el dispositivo móvil.
 6. Establezca un icono para la aplicación web para ayudar a los usuarios a identificarlo. Los iconos son opcionales, pero recomendados.
 7. Haga clic en crear.
@@ -85,9 +84,9 @@ Después de registrar una aplicación aparecerá en la pantalla, como se puede v
 
 Al hacer clic en la aplicación aparece la pantalla para editar la aplicación web, como se puede ver en la siguiente imagen. Los botones colocados abajo en la pantalla permiten:
 
-8. Seleccionar la aplicación para su inclusión en las aplicaciones administradas de la empresa.
-9. Editar la configuración y el icono de la aplicación.
-10. Eliminar la aplicación administrada de Google Play.
+1. Seleccionar la aplicación para su inclusión en las aplicaciones administradas de la empresa.
+2. Editar la configuración y el icono de la aplicación.
+3. Eliminar la aplicación administrada de Google Play.
 
 {% hint style="warning" %}
 **IMPORTANTE**
