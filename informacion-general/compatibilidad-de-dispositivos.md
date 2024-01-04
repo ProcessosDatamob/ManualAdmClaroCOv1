@@ -1,6 +1,6 @@
 # Compatibilidad de dispositivos
 
-El producto CME fue creado en asociación con Google en el programa Android Enterprise. Google mantiene una lista de dispositivos homologados y recomendados para su uso con Android Enterprise en su Directorio de Soluciones Enterprise.  Para tener acceso a los dispositivos recomendados dentro del programa Android Enterprise, es necesario dirigirse al Directorio de Soluciones de Google utilizando el enlace proporcionado: [https://androidenterprisepartners.withgoogle.com/devices/](https://androidenterprisepartners.withgoogle.com/devices/).
+El producto **\<NomeProduto>** fue creado en asociación con Google en el programa Android Enterprise. Google mantiene una lista de dispositivos homologados y recomendados para su uso con Android Enterprise en su Directorio de Soluciones Enterprise.  Para tener acceso a los dispositivos recomendados dentro del programa Android Enterprise, es necesario dirigirse al Directorio de Soluciones de Google utilizando el enlace proporcionado: [https://androidenterprisepartners.withgoogle.com/devices/](https://androidenterprisepartners.withgoogle.com/devices/).
 
 El sello Android Enterprise Recommended identifica dispositivos Android que cumplen con ciertos estándares de seguridad, rendimiento y gestión adecuados para su uso en entornos empresariales. Cuando un dispositivo recibe la certificación "Android Enterprise Recommended", esto significa que ha pasado por pruebas rigurosas y cumple con requisitos específicos establecidos por Google.
 
