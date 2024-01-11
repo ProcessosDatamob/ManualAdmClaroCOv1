@@ -8,7 +8,7 @@ Para ver y generar este reporte, haga clic en el menú "Administración de aplic
 
 El sistema mostrará una lista de todas las aplicaciones instaladas en los dispositivos de la empresa. A continuación, se muestra la pantalla de visualización de las aplicaciones administradas.
 
-![](<../.gitbook/assets/1 (21).png>)
+<figure><img src="../.gitbook/assets/Captura de tela 2024-01-11 133208.png" alt=""><figcaption></figcaption></figure>
 
 La pantalla tiene elementos estándar que son similares a otras pantallas del sistema. Los puntos siguientes muestran las opciones de gestión de esta pantalla y están enumerados en la figura anterior:
 
