@@ -11,18 +11,18 @@ El submenú Información de aplicaciones muestra la información de las aplicaci
 4. Para buscar una aplicación específica, escriba el nombre de la aplicación en el campo de "búsqueda".
 5. Para exportar el reporte de los dispositivos, haga clic en el botón "Excel".
 6. Para copiar la información de los dispositivos, haga clic en el botón "Copiar".
-7. Ordene la lista de aplicaciones por las columnas en las flechas “ ![](<../.gitbook/assets/1 (25).png>)”
+7. Ordene la lista de aplicaciones por las columnas en las flechas “ ![](<../.gitbook/assets/1 (25).png>)”.
 8. Utilice los tres puntos "..." para mostrar el menú de acciones y ver los detalles de la aplicación.
 
 ![](<../.gitbook/assets/2 (25).png>)
 
-### **Historial de Consumo** <a href="#_e2p6xqo1hbri" id="_e2p6xqo1hbri"></a>
+### **Historial de Consumo** <a href="#e2p6xqo1hbri" id="e2p6xqo1hbri"></a>
 
 Para acceder a esta pantalla, utilice los tres puntos al final de la línea de la aplicación. En esta pantalla se puede visualizar el gráfico de evolución del consumo de datos de la aplicación en los dispositivos.
 
 ![](<../.gitbook/assets/3 (23).png>)
 
-### **Usuarios con Aplicación** <a href="#_dzvz1gwobjw0" id="_dzvz1gwobjw0"></a>
+### **Usuarios con Aplicación** <a href="#dzvz1gwobjw0" id="dzvz1gwobjw0"></a>
 
 Para acceder a esta pantalla, utilice los tres puntos al final de la línea de la aplicación. En esta pantalla, se puede ver todos los dispositivos que tienen la aplicación instalada.
 

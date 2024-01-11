@@ -1,6 +1,35 @@
 # Opciones de administración de dispositivos
 
-En la pantalla de "Dispositivos" dentro de "Lista de Dispositivos" se puede acceder a las opciones de consulta y configuración del dispositivo utilizando los tres puntos "..." que aparecen a la derecha en la lista de los dispositivos, como se ilustra en la imagen de abajo:
+<mark style="background-color:orange;">En la pantalla de "Dispositivos" dentro de "Lista de Dispositivos" se puede acceder a la información del dispositivo haciendo clic en el botón de información:</mark>
+
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-01-11 144211.png" alt=""><figcaption></figcaption></figure>
+
+### <mark style="background-color:orange;">Detalles</mark>&#x20;
+
+* <mark style="background-color:orange;">Usuario - nombre del usuario registrado en el portal;</mark>&#x20;
+* <mark style="background-color:orange;">Identificación - Identificación registrada para el dispositivo;</mark>&#x20;
+* <mark style="background-color:orange;">Teléfono - número de teléfono;</mark>&#x20;
+* <mark style="background-color:orange;">IMEI - número interno y único en cada dispositivo. En Android 10 ya no es posible capturar esta información del dispositivo porque utilizamos otro método para recibir esta información con el Enriquecimiento de URL;</mark>&#x20;
+* <mark style="background-color:orange;">ICCID - número de chip SIM;</mark>&#x20;
+* <mark style="background-color:orange;">Modelo - modelo de dispositivo;</mark>&#x20;
+* <mark style="background-color:orange;">Fabricante - nombre del fabricante del dispositivo;</mark>&#x20;
+* <mark style="background-color:orange;">Sistema Operativo - sistema operativo del dispositivo;</mark>&#x20;
+* <mark style="background-color:orange;">Versión de Android - versión de Android del dispositivo;</mark>&#x20;
+
+### <mark style="background-color:orange;">Instalación</mark>&#x20;
+
+* <mark style="background-color:orange;">Fecha de registro - fecha de registro de los dispositivos;</mark>&#x20;
+* <mark style="background-color:orange;">Modo de gestión - muestra el modo de gestión utilizado;</mark>&#x20;
+* <mark style="background-color:orange;">Versión de la aplicación - versión de Companion instalado en el dispositivo;</mark>&#x20;
+* <mark style="background-color:orange;">Nombre de la Política en el Portal - nombre de la directiva asignada al dispositivo;</mark>&#x20;
+* <mark style="background-color:orange;">Fecha de la última comunicación - mostrará la fecha en que el dispositivo se comunicó por última vez con el portal;</mark>&#x20;
+
+### <mark style="background-color:orange;">Hardware</mark>&#x20;
+
+* <mark style="background-color:orange;">Almacenamiento Interno - cuánto de almacenamiento interno tiene;</mark>
+* <mark style="background-color:orange;">Batería - Cuántos % de batería está actualmente;</mark>&#x20;
+
+<mark style="background-color:orange;">Y haciendo clic en los tres puntos "..." a la derecha en la lista de dispositivos, aparecen las opciones de consulta y configuraciones del dispositivo, como se ilustra en la imagen de abajo:</mark>
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2023-11-03 143049.png" alt=""><figcaption></figcaption></figure>
 
@@ -91,30 +120,22 @@ Como se puede ver en la siguiente imagen, se muestra un mensaje en la pantalla p
 
 <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-**Administrar información**
+**Administrar**
 
 Esta opción permite acceder a la pantalla para editar datos del dispositivo, como: Usuario, identificación y Grupo.
 
-![](<../../.gitbook/assets/18 (3).png>)
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-01-11 145454.png" alt=""><figcaption></figcaption></figure>
 
 Además de poder editar los datos, se muestran más abajo en la pantalla dos listas con la información de Software y Hardware relacionados con el dispositivo administrado:
 
-![](<../../.gitbook/assets/19 (2).png>)
+### **Información de Software**
 
-**Información de Software**
+* Modo de gestión - muestra el modo de gestión utilizado&#x20;
+* Versión de la aplicación - versión de Companion instalado en el dispositivo&#x20;
+* Fecha de la última actualización - fecha y hora en que la información del dispositivo se sincronizó con el portal. Esta fecha proviene de AMAPI (API de Google), es decir, es la información recopilada por la API de Google en el dispositivo;&#x20;
+* Nombre de la Política en el Portal - nombre de la directiva asignada al dispositivo;&#x20;
 
-* **Sistema operativo** - informa el nombre del sistema operativo;
-* **Número de serie** - número de serie del dispositivo;
-* **En conformida**d - es la adhesión del dispositivo a todas las configuraciones de políticas asignadas a él. Si no se ha aplicado alguna configuración, el valor de esta opción será "No". Puede acceder al "Reporte de no conformidad" en los tres puntos al final de la línea del dispositivo.
-* **Estado Aplica**do - estado asignado al dispositivo;
-* **Última fecha de Actualización** - fecha y hora en que se sincronizó la información del dispositivo con el portal. Esta fecha proviene de AMAPI (Google API), es decir, es la información que recopila la API de Google en el dispositivo;
-* **Fecha de sincronización de polític**as - fecha y hora de la última sincronización de políticas;
-* **Versión de Android** - informa el número de la versión de Android.
-* **Versión de la política aplicada en el dispositivo** - informa el número de la versión aplicada en el dispositivo.
-* **Nombre de la Política en el Portal** - nombre de la directiva asignada al dispositivo;
-* **Nombre de la política aplicada en el Dispositivo** - Informa el nombre de la política aplicada en el dispositivo.
+### Información sobre el hardware&#x20;
 
-**Información sobre el hardware**
-
-* **Almacenamiento Interno** - cuánto de almacenamiento interno tiene;
-* **Batería** - ¿Cuántos % de batería está actualmente;
+* Almacenamiento Interno - cuánto de almacenamiento interno tiene;&#x20;
+* Batería - Cuántos % de batería está actualmente;
