@@ -1,6 +1,6 @@
 # Configuración general
 
-**Ajustes**
+### **Ajustes**
 
 Los ajustes se agrupan en los tipos:
 
@@ -13,8 +13,6 @@ Los ajustes se agrupan en los tipos:
 * Sistema operativo;
 * Ubicación;
 * Usuario;
-
-<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTA**

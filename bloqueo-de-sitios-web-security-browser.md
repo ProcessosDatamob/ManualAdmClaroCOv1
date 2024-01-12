@@ -6,7 +6,7 @@ Los bloqueos de sitios web son realizados por la aplicación Security Browser. F
 
 Por lo tanto, es importante destacar que la instalación y configuración de la aplicación Security Browser son fundamentales para el correcto desempeño de las funcionalidades relacionadas con el bloqueo y monitoreo de sitios web visitados.
 
-**Proceso de Instalación de la aplicación Security Browser**
+### **Proceso de Instalación de la aplicación Security Browser**
 
 El proceso de instalación del navegador es simple y transparente para el usuario final. Sin embargo, es importante orientar al usuario para que utilice este navegador web como predeterminado. De esta forma, será posible realizar correctamente los bloqueos y el monitoreo de sitios web visitados.
 
@@ -47,7 +47,7 @@ Para realizar la instalación de la aplicación, vaya al menú "Gestión de Apli
 
 Después de incluir la aplicación en la directiva, se pueden establecer configuraciones de bloqueo. La siguiente subsección muestra cómo realizar el bloqueo de sitios web.
 
-**Bloqueo de sitios web**
+### **Bloqueo de sitios web**
 
 El bloqueo de sitios permite que el dispositivo se utilice para navegar en el trabajo, y que los sitios y categorías no deseadas sean inaccesibles. Para realizar el bloqueo de sitios web siga los siguientes pasos:
 

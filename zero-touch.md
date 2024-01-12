@@ -10,7 +10,7 @@ Vea la lista de dispositivos compatibles con Zero Touch:
 
 [https://androidenterprisepartners.withgoogle.com/devices/#!?device\_features=zero\_touch](https://androidenterprisepartners.withgoogle.com/devices/#!?device\_features=zero\_touch)
 
-**Conexión de la cuenta Zero Touch**
+### **Conexión de la cuenta Zero Touch**
 
 Para comenzar a usar Zero Touch, sigue estos pasos:
 
@@ -22,7 +22,7 @@ Para comenzar a usar Zero Touch, sigue estos pasos:
 
 Inserte usuario y contraseña y confirme.
 
-**Configurar los dispositivos para Zero-Touch**
+### **Configurar los dispositivos para Zero-Touch**
 
 En este paso se definirán las configuraciones y bloqueos que se aplicarán a los dispositivos.
 

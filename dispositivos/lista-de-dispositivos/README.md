@@ -11,11 +11,11 @@ Para saber cómo administrar los dispositivos activos de la empresa, siga los pa
 4. Para localizar un dispositivo específico, escriba el nombre de usuario, IMEI o ICCID del dispositivo en el campo "Buscar".
 5. Para exportar el reporte de los dispositivos, haga clic en el botón "Excel".
 6. Para copiar la información de los dispositivos, haga clic en el botón "Copiar".
-7. <mark style="background-color:orange;">Utilice los filtros Grupo, Política, Modelo y Fabricante para buscar los dispositivos si desea listar o utilizar los Filtros Avanzados para buscar Modo de Administración y Fecha Inicial de Registro y Fecha Final de Registro (filtrará por la fecha de registro de los dispositivos que están en el período especificado) para acceder a la información deseada</mark>
+7. <mark style="background-color:orange;">Utilice los filtros Grupo, Política, Modelo y Fabricante para buscar los dispositivos si desea listar o utilizar los Filtros Avanzados para buscar Modo de Administración y Fecha Inicial de Registro y Fecha Final de Registro (filtrará por la fecha de registro de los dispositivos que están en el período especificado) para acceder a la información deseada.</mark>
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-8. Ordene la lista de dispositivos por las columnas en las flechas “ ![](<../../.gitbook/assets/1 (6).png>)”
+8. Ordene la lista de dispositivos por las columnas en las flechas “ ![](<../../.gitbook/assets/1 (6).png>)”.
 9. Haga clic en ">" para ver toda la información del dispositivo.
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

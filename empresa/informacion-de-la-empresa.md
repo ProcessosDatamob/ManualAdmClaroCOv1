@@ -26,6 +26,4 @@ Esta es una acción irreversible. Antes de eliminar la empresa se debe solicitar
 
 La siguiente pantalla se muestra al hacer clic en "Eliminar empresa".
 
-![Interface gráfica do usuário, Aplicativo, Word
-
-Descrição gerada automaticamente](<../.gitbook/assets/20 (4).png>)
+![](<../.gitbook/assets/20 (4).png>)
