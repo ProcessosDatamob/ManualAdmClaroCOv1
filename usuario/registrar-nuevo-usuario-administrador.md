@@ -11,9 +11,8 @@ Al acceder a la pantalla, el sistema no permitirá cambiar la información del c
 1. Rellene el nombre de usuario.
 2. Si desea, ingrese un código de identificación para el usuario.
 3. Ingrese el correo electrónico que se utilizará para que el usuario acceda al sistema (ejemplos: carina@teste.com, jose@app.com.br, jonas@tecnologia.com.br). Este correo electrónico no puede ser utilizado por ningún otro usuario de la empresa.
-4. Ingrese una contraseña para el usuario.
 
-![](<../.gitbook/assets/1 (13).png>)
+<figure><img src="../.gitbook/assets/Captura de pantalla 2024-01-14 a la(s) 19.29.50.png" alt=""><figcaption></figcaption></figure>
 
 5. Seleccione el tipo de usuario:
 
@@ -22,8 +21,7 @@ Al acceder a la pantalla, el sistema no permitirá cambiar la información del c
 
 Si es un responsable de grupo, aparecerán más opciones:
 
-6. Seleccione el(los) grupo(s) que administrará el usuario.
+6. Seleccione el(los) grupo(s) que administrará el usuario. Es necesario crear previamente los grupos usando el menu Grupos >  [Registrar Nuevo Grupo](../grupos/registrar-nuevo-grupo.md).
+7. Haga clic en el botón "Registrar" para completar el registro del usuario.
 
-![](<../.gitbook/assets/2 (13).png>)
-
-7. Haga clic en el botón "Registrar" para completar el registro del usuario
+**Nota**: Al completar el registro, el sistema enviará un correo al usuario con un enlace para crear su contraseña.
