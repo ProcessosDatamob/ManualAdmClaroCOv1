@@ -11,7 +11,7 @@ Para saber cómo administrar los dispositivos activos de la empresa, siga los pa
 4. Para localizar un dispositivo específico, escriba el nombre de usuario, IMEI o ICCID del dispositivo en el campo "Buscar".
 5. Para exportar el reporte de los dispositivos, haga clic en el botón "Excel".
 6. Para copiar la información de los dispositivos, haga clic en el botón "Copiar".
-7. <mark style="background-color:orange;">Utilice los filtros Grupo, Política, Modelo y Fabricante para buscar los dispositivos si desea listar o utilizar los Filtros Avanzados para buscar Modo de Administración y Fecha Inicial de Registro y Fecha Final de Registro (filtrará por la fecha de registro de los dispositivos que están en el período especificado) para acceder a la información deseada.</mark>
+7. Utilice los filtros Grupo, Política, Modelo y Fabricante para buscar los dispositivos si desea listar o utilizar los Filtros Avanzados para buscar Modo de Administración y Fecha Inicial de Registro y Fecha Final de Registro (filtrará por la fecha de registro de los dispositivos que están en el período especificado) para acceder a la información deseada.
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -42,15 +42,15 @@ Al hacer clic en el signo ">" junto al usuario, el sistema muestra más informac
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="background-color:orange;">Política - nombre de la directiva asignada al dispositivo;</mark>&#x20;
-* <mark style="background-color:orange;">Modo de administración - modo de administración asignado al dispositivo;</mark>
-* <mark style="background-color:orange;">Versión de la aplicación - versión de Companion instalado en el dispositivo;</mark>&#x20;
-* <mark style="background-color:orange;">ICCID - número de chip SIM;</mark>&#x20;
-* <mark style="background-color:orange;">Fabricante - nombre del fabricante del dispositivo;</mark>&#x20;
-* <mark style="background-color:orange;">Sistema operativo - versión de Android;</mark>&#x20;
-* <mark style="background-color:orange;">Fecha de registro - fecha y hora de registro del dispositivo;</mark>&#x20;
-* <mark style="background-color:orange;">Grupo - grupo al que está asociado el dispositivo;</mark>&#x20;
-* <mark style="background-color:orange;">Fecha de la última comunicación - última comunicación del dispositivo;</mark>&#x20;
-* <mark style="background-color:orange;">Estado - indica el estado del dispositivo. Los estados que puede tener un dispositivo están en la tabla siguiente:</mark>
+* Política - nombre de la política asignada al dispositivo;&#x20;
+* Modo de administración - modo de administración asignado al dispositivo;
+* Versión de la aplicación - versión de la aplicación **\<NomeProduto>** instalado en el dispositivo;&#x20;
+* ICCID - número de chip SIM;&#x20;
+* Fabricante - nombre del fabricante del dispositivo;&#x20;
+* Sistema operativo - versión de Android;&#x20;
+* Fecha de registro - fecha y hora de registro del dispositivo;&#x20;
+* Grupo - grupo al que está asociado el dispositivo;&#x20;
+* Fecha de la última comunicación - última comunicación del dispositivo;&#x20;
+* Estado - indica el estado del dispositivo. Los estados que puede tener un dispositivo están en la tabla siguiente:
 
 <table data-header-hidden><thead><tr><th width="229"></th><th></th></tr></thead><tbody><tr><td><strong>Estado</strong></td><td><strong>Descripción</strong></td></tr><tr><td>Activo</td><td>El dispositivo está activo.</td></tr><tr><td>Desactivado</td><td>El dispositivo está desactivado.</td></tr><tr><td>Eliminado</td><td>El dispositivo ha sido eliminado. Este estado se usa en el reporte de estado final cuando el dispositivo confirma la eliminación.</td></tr><tr><td>Aprovisionando</td><td>Se está aprovisionando el dispositivo. Los dispositivos recién registrados permanecen en ese estado hasta que se aplica una directiva.</td></tr></tbody></table>
