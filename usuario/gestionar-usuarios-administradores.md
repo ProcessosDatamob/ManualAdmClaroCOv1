@@ -2,7 +2,7 @@
 
 Esta pantalla del sistema tiene como objetivo permitir cambiar los datos de un usuario de tipo Administrador de Empresa o Administrador de Grupo.
 
-Para cambiar un usuario administrador, haga clic en el menú "Usuarios" y seleccione el submenú "Gestionar usuarios administradores".
+Para cambiar un usuario administrador, haga clic en el menú "Usuarios" y seleccione el submenú "Gestionar Usuarios Administradores".
 
 <figure><img src="../.gitbook/assets/Captura de tela 2023-11-06 172415 (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -14,6 +14,7 @@ Al acceder a la pantalla, el sistema no permitirá cambiar la información del c
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2024-01-14 a la(s) 19.29.50.png" alt=""><figcaption></figcaption></figure>
 
+4. Seleccione el huso horario y idioma.
 5. Seleccione el tipo de usuario:
 
 * **Responsable de Grupo -** Usuario administrador de grupo.
