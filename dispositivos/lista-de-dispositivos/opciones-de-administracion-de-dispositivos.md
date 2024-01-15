@@ -1,35 +1,35 @@
 # Opciones de administración de dispositivos
 
-<mark style="background-color:orange;">En la pantalla de "Dispositivos" dentro de "Lista de Dispositivos" se puede acceder a la información del dispositivo haciendo clic en el botón de información:</mark>
+En la pantalla de "Dispositivos" dentro de "Lista de Dispositivos" se puede acceder a la información del dispositivo haciendo clic en el botón de información.
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-01-11 144211.png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="background-color:orange;">Detalles</mark>&#x20;
+### Detalles&#x20;
 
-* <mark style="background-color:orange;">Usuario - nombre del usuario registrado en el portal;</mark>&#x20;
-* <mark style="background-color:orange;">Identificación - Identificación registrada para el dispositivo;</mark>&#x20;
-* <mark style="background-color:orange;">Teléfono - número de teléfono;</mark>&#x20;
-* <mark style="background-color:orange;">IMEI - número interno y único en cada dispositivo. En Android 10 ya no es posible capturar esta información del dispositivo porque utilizamos otro método para recibir esta información con el Enriquecimiento de URL;</mark>&#x20;
-* <mark style="background-color:orange;">ICCID - número de chip SIM;</mark>&#x20;
-* <mark style="background-color:orange;">Modelo - modelo de dispositivo;</mark>&#x20;
-* <mark style="background-color:orange;">Fabricante - nombre del fabricante del dispositivo;</mark>&#x20;
-* <mark style="background-color:orange;">Sistema Operativo - sistema operativo del dispositivo;</mark>&#x20;
-* <mark style="background-color:orange;">Versión de Android - versión de Android del dispositivo;</mark>&#x20;
+* Usuario - nombre del usuario registrado en el portal
+* Identificación - Identificación registrada para el dispositivo.&#x20;
+* Teléfono - número de teléfono.
+* IMEI - número interno y único en cada dispositivo.&#x20;
+* ICCID - número de chip SIM.&#x20;
+* Modelo - modelo de dispositivo.&#x20;
+* Fabricante - nombre del fabricante del dispositivo.
+* Sistema Operativo - sistema operativo del dispositivo.&#x20;
+* Versión de Android - versión de Android del dispositivo.&#x20;
 
-### <mark style="background-color:orange;">Instalación</mark>&#x20;
+### Instalación&#x20;
 
-* <mark style="background-color:orange;">Fecha de registro - fecha de registro de los dispositivos;</mark>&#x20;
-* <mark style="background-color:orange;">Modo de gestión - muestra el modo de gestión utilizado;</mark>&#x20;
-* <mark style="background-color:orange;">Versión de la aplicación - versión de Companion instalado en el dispositivo;</mark>&#x20;
-* <mark style="background-color:orange;">Nombre de la Política en el Portal - nombre de la directiva asignada al dispositivo;</mark>&#x20;
-* <mark style="background-color:orange;">Fecha de la última comunicación - mostrará la fecha en que el dispositivo se comunicó por última vez con el portal;</mark>&#x20;
+* Fecha de registro - fecha de registro de los dispositivos.
+* Modo de gestión - muestra el modo de gestión utilizado.
+* Versión de la aplicación - versión de la aplicación **\<NomeProduto>** instalado en el dispositivo.
+* Nombre de la Política en el Portal - nombre de la politica asignada al dispositivo.
+* Fecha de la última comunicación - mostrará la fecha en que el dispositivo se comunicó por última vez con el portal.
 
-### <mark style="background-color:orange;">Hardware</mark>&#x20;
+### Hardware&#x20;
 
-* <mark style="background-color:orange;">Almacenamiento Interno - cuánto de almacenamiento interno tiene;</mark>
-* <mark style="background-color:orange;">Batería - Cuántos % de batería está actualmente;</mark>&#x20;
+* Almacenamiento Interno - cuánto de almacenamiento interno tiene.
+* Batería - Cuántos % de batería está actualmente.
 
-<mark style="background-color:orange;">Y haciendo clic en los tres puntos "..." a la derecha en la lista de dispositivos, aparecen las opciones de consulta y configuraciones del dispositivo, como se ilustra en la imagen de abajo:</mark>
+Haciendo clic en los tres puntos "..." a la derecha en la lista de dispositivos, aparecen las opciones de consulta y configuraciones del dispositivo, como se ilustra en la imagen de abajo:
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2023-11-03 143049.png" alt=""><figcaption></figcaption></figure>
 
@@ -126,16 +126,16 @@ Esta opción permite acceder a la pantalla para editar datos del dispositivo, co
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-01-11 145454.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="background-color:orange;">Además de poder editar los datos, se muestran más abajo en la pantalla dos listas con la información de Software y Hardware relacionados con el dispositivo administrado:</mark>
+Además de poder editar los datos, se muestran más abajo en la pantalla dos listas con la información de Software y Hardware relacionados con el dispositivo administrado:
 
-### <mark style="background-color:orange;">**Información de Software**</mark>
+### **Información de Software**
 
-* <mark style="background-color:orange;">Modo de gestión - muestra el modo de gestión utilizado</mark>&#x20;
-* <mark style="background-color:orange;">Versión de la aplicación - versión de Companion instalado en el dispositivo</mark>&#x20;
-* <mark style="background-color:orange;">Fecha de la última actualización - fecha y hora en que la información del dispositivo se sincronizó con el portal. Esta fecha proviene de AMAPI (API de Google), es decir, es la información recopilada por la API de Google en el dispositivo;</mark>&#x20;
-* <mark style="background-color:orange;">Nombre de la Política en el Portal - nombre de la directiva asignada al dispositivo;</mark>&#x20;
+* Modo de gestión - muestra el modo de gestión utilizado.
+* Versión de la aplicación - versión de la aplicación **\<NomeProduto>** instalado en el dispositivo.
+* Fecha de la última actualización - fecha y hora en que la información del dispositivo se sincronizó con el portal. Esta fecha proviene de AMAPI (API de Google), es decir, es la información recopilada por la API de Google en el dispositivo.
+* Nombre de la Política en el Portal - nombre de la política asignada al dispositivo.
 
-### <mark style="background-color:orange;">Información sobre el hardware</mark>&#x20;
+### Información sobre el hardware&#x20;
 
-* <mark style="background-color:orange;">Almacenamiento Interno - cuánto de almacenamiento interno tiene;</mark>&#x20;
-* <mark style="background-color:orange;">Batería - Cuántos % de batería está actualmente;</mark>
+* Almacenamiento Interno - cuánto de almacenamiento interno tiene.
+* Batería - Cuántos % de batería está actualmente.
