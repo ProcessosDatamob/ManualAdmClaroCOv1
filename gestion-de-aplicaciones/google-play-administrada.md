@@ -21,7 +21,7 @@ La siguiente captura de pantalla muestra la pantalla de Google Play administrada
 3. **Aplicaciones privadas -** permite cargar aplicaciones propias de la empresa.
 4. **Aplicaciones web -** permite crear aplicaciones web.
 5. Haga clic en la categoría deseada para mostrar más aplicaciones de la categoría.
-6. El botón "Ver más" muestra más aplicaciones en la misma categoría.
+6. El botón "**Ver más**" muestra más aplicaciones en la misma categoría.
 
 ## **Aplicaciones Públicas**
 
