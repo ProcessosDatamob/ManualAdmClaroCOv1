@@ -2,9 +2,9 @@
 
 Esta configuración tiene como objetivo permitir la creación de un entorno en el que el usuario del dispositivo solo pueda acceder a las aplicaciones previamente autorizadas por el administrador, es decir, solo se mostrarán los íconos de las aplicaciones seleccionadas en la pantalla del dispositivo.
 
-Para acceder a la configuración del "Modo Quiosco", siga estos pasos:&#x20;
+Para acceder a la configuración del "**Modo Quiosco**", siga estos pasos:&#x20;
 
-1. En la pantalla "Editar política", seleccione la pestaña "Modo Quiosco".&#x20;
+1. En la pantalla "[Editar política](./)", seleccione la pestaña "**Modo Quiosco**".&#x20;
 2. Active el modo quiosco haciendo clic en el botón de activación.
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-01-11 135757.png" alt=""><figcaption></figcaption></figure>
@@ -17,26 +17,13 @@ Para acceder a la configuración del "Modo Quiosco", siga estos pasos:&#x20;
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-5. Cuando el dispositivo instala la aplicación Kiosk, esta aplicación capturará la lista de todos los programas instalados en el dispositivo y enviará esta lista al Portal. Además, enviará las siguientes configuraciones gestionadas al portal:
-   * Fondo de pantalla
-   * <mark style="background-color:orange;">Color de fuente de los iconos</mark>&#x20;
-   * <mark style="background-color:orange;">Orientación de pantalla</mark>&#x20;
-   * <mark style="background-color:orange;">Tamaño de iconos y fuentes</mark>&#x20;
-   * <mark style="background-color:orange;">Ordenación de los iconos</mark>&#x20;
-   * <mark style="background-color:orange;">Posicionamiento de la imagen</mark>
+Cuando el dispositivo instala la aplicación Kiosk, esta aplicación capturará la lista de todos los programas instalados en el dispositivo y enviará esta lista al Portal. Además, mostrará las siguientes configuraciones en el portal:
 
-También cambiará el lanzador (launcher) del dispositivo para el lanzador de la aplicación Kiosk, no permitirá que el usuario cambie el lanzador en el dispositivo y mantendrá la configuración del Modo Quiosco recibida en la política.
+* **Fondo de pantalla** - Es posible cargar una imagen para el fondo de pantalla en la política y establecer la orientación de la pantalla, la cual se enviará a la aplicación.
+* **Color de fuente de los iconos** - Permite configurar el color del texto de los iconos en la pantalla de inicio.
+* **Orientación de pantalla** - Permite seleccionar la orientación de pantalla para el dispositivo, y el valor predeterminado es 'Definido por el usuario'."
+* **Tamaño de iconos y fuentes** - Permite seleccionar las siguientes opciones de tamaño de pantalla: Estándar del sistema (predeterminado), Pequeño (75%) y Grande (125%).
+* **Ordenación de los iconos** - Permite realizar la ordenación de los iconos por orden alfabético o por fecha de inclusión.
+* **Posicionamiento de la imagen** - Permite seleccionar la posición de la imagen del fondo de pantalla en la pantalla de inicio del dispositivo.
 
-<mark style="background-color:orange;">**Fondo de pantall**</mark><mark style="background-color:orange;">a - se puede realizar la carga de una imagen de fondo de pantalla en la política y establecer la orientación de la pantalla, que se enviará a la aplicación</mark>
-
-<mark style="background-color:orange;">**Color de fuente de los iconos**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">- permite configurar el color del texto de los iconos en la pantalla de inicio</mark>
-
-<mark style="background-color:orange;">**Orientación de pantalla**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">- permite seleccionar la orientación de pantalla para el dispositivo, y el valor predeterminado es: "Definido por el usuario"</mark>
-
-<mark style="background-color:orange;">**Tamaño de iconos y Fuentes**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">- permite seleccionar las siguientes opciones de tamaño de pantalla: Estándar del sistema (predeterminado), Pequeño (75%) y Grande (125%)</mark>
-
-<mark style="background-color:orange;">**Ordenación de los iconos**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">- permite realizar la ordenación de los iconos</mark>
-
-<mark style="background-color:orange;">**Posicionamiento de la imagen**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">- permite seleccionar la posición de la imagen del fondo de pantalla en la pantalla de inicio del dispositivo</mark>
-
-<mark style="background-color:orange;">Las aplicaciones que se mostrarán en el dispositivo se establecerán en la directiva, es decir, solo las aplicaciones liberadas en la directiva se mostrarán en Laucher.</mark>
+Las aplicaciones que se mostrarán en el dispositivo se establecerán mediante la política, es decir, solo las aplicaciones autorizadas en la política se mostrarán en el quiosco.

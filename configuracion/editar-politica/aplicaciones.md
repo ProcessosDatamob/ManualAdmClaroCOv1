@@ -31,42 +31,42 @@ Si el usuario elige la opción “pre-instalada” deberá considerar que las ap
 5. Se pueden realizar más acciones ("...") con la aplicación: Configuración administrada, Permisos, Configuración avanzada y Quitar aplicación.
 6. Agregar aplicaciones - permite agregar aplicaciones para la gestión. Importante: Las aplicaciones deben agregarse primero con Google Play Managed.&#x20;
 
-### <mark style="background-color:orange;">Agregar aplicaciones</mark>&#x20;
+## Agregar aplicaciones
 
-<mark style="background-color:orange;">La opción Agregar aplicaciones tendrá diferentes comportamientos cuando el Modo Kiosco está activado o desactivado.</mark>&#x20;
+La opción Agregar aplicaciones tendrá diferentes comportamientos cuando el Modo Quiosco está activado o desactivado.
 
-* <mark style="background-color:orange;">**Modo Kiosco Desactivado:**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;">Al hacer clic en el botón "Agregar aplicaciones", si se trata de una política con Modo Kiosco Desactivado, se mostrará la lista de aplicaciones que se han agregado utilizando Google Play Administrado.</mark>&#x20;
-* <mark style="background-color:orange;">**Modo Kiosco Habilitado**</mark><mark style="background-color:orange;">: Si la política que se está editando es una política con el Modo Kiosco Habilitado, al hacer clic en el botón Agregar aplicaciones, se mostrarán las 3 opciones para agregar las aplicaciones.</mark>
+* Modo Quiosco Desactivado: Al hacer clic en el botón "Agregar aplicaciones", si se trata de una política con Modo Quiosco Desactivado, se mostrará la lista de aplicaciones que se han agregado utilizando Google Play Administrada.
+* Modo Quiosco Habilitado: Si la política que se está editando es una política con el Modo Quiosco Habilitado, al hacer clic en el botón Agregar aplicaciones, se mostrarán las 3 opciones para agregar las aplicaciones.
 
 
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-01-11 143003.png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="background-color:orange;">Sistema</mark>&#x20;
+### Sistema
 
-<mark style="background-color:orange;">Haga clic en la opción "Sistema", y abrirá la pantalla "Añadir del sistema" Seleccionar el fabricante y el dispositivo Seleccionar una o más aplicaciones haciendo clic en la casilla Haga clic en el botón "Añadir seleccionados"</mark>
+Haga clic en la opción "Sistema", y abrirá la pantalla "Añadir del sistema" Seleccionar el fabricante y el dispositivo Seleccionar una o más aplicaciones haciendo clic en la casilla Haga clic en el botón "Añadir seleccionados"
 
-### <mark style="background-color:orange;">Playstore</mark>
+### Playstore
 
-<mark style="background-color:orange;">Haga clic en la opción "Playstore", y abrirá la pantalla "Agregar aplicaciones" Seleccionar una o más aplicaciones haciendo clic en la casilla Haga clic en el botón "Añadir seleccionados"</mark>
-
-{% hint style="info" %}
-<mark style="background-color:orange;">**IMPORTANTE**</mark>
-
-<mark style="background-color:orange;">Las aplicaciones deben agregarse primero con Google Play Administrado.</mark>&#x20;
-{% endhint %}
-
-### <mark style="background-color:orange;">Manual</mark>
-
-<mark style="background-color:orange;">Haga clic en la opción "Manual", y abrirá la pantalla "Agregar aplicaciones manualmente" Rellenar los campos: Nombre de la aplicación (opcional), Nombre del paquete y haga clic en "Agregar"</mark>
+Haga clic en la opción "Playstore", y abrirá la pantalla "Agregar aplicaciones" Seleccionar una o más aplicaciones haciendo clic en la casilla Haga clic en el botón "Añadir seleccionados"
 
 {% hint style="info" %}
-<mark style="background-color:orange;">OBSERVACIÓN</mark>
+IMPORTANTE
 
-<mark style="background-color:orange;">Al crear una política con modo de administración Android Block SIM, automáticamente en la pestaña APLICACIONES, ya estará agregado la aplicación Block SIM con modo de instalación Forzada, es decir, cuando el usuario realice la activación de Vivo Administración Dispositivo utilizando esta política, ya se instalará automáticamente el Block SIM, sin necesidad de descargarlo en la Play Store.</mark>
+Las aplicaciones deben agregarse primero con Google Play Administrado.
 {% endhint %}
 
-### **Configuraciones Administradas**
+### Manual
+
+Haga clic en la opción "Manual", y abrirá la pantalla "Agregar aplicaciones manualmente" Rellenar los campos: Nombre de la aplicación (opcional), Nombre del paquete y haga clic en "Agregar"
+
+{% hint style="info" %}
+OBSERVACIÓN
+
+Al crear una política con modo de administración Android Block SIM, automáticamente en la pestaña APLICACIONES, ya estará agregado la aplicación Block SIM con modo de instalación Forzada, es decir, cuando el usuario realice la activación de Vivo Administración Dispositivo utilizando esta política, ya se instalará automáticamente el Block SIM, sin necesidad de descargarlo en la Play Store.
+{% endhint %}
+
+## **Configuraciones Administradas**
 
 Para acceder a la configuración administrada de una aplicación, debe estar en la pantalla "Editar política" con la pestaña "Aplicaciones" seleccionada. Siga los siguientes pasos:
 
@@ -78,7 +78,7 @@ Para acceder a la configuración administrada de una aplicación, debe estar en 
 {% hint style="info" %}
 **IMPORTANTE**
 
-La aplicación Security Browser es el navegador web predeterminado del sistema \<NomeProduto> y con él es posible gestionar bloqueos de sitios por URL y categoría, así como monitorear la navegación del usuario. Consulte la sección 16 para obtener información detallada sobre la instalación y configuración de la aplicación Security Browser.
+La aplicación Security Browser es el navegador web predeterminado del sistema \<NomeProduto> y con él es posible gestionar bloqueos de sitios por URL y categoría, así como monitorear la navegación del usuario. Consulte la "[Bloqueo de Sitios Web - Security Browser](../../bloqueo-de-sitios-web-security-browser.md)" para obtener información detallada sobre la instalación y configuración de la aplicación Security Browser.
 {% endhint %}
 
 Después del paso 2 se mostrará la siguiente pantalla. En esta pantalla tenemos los siguientes elementos:
@@ -89,7 +89,7 @@ Después del paso 2 se mostrará la siguiente pantalla. En esta pantalla tenemos
 
 ![](<../../.gitbook/assets/3 (8).png>)
 
-**Permisos**
+## **Permisos**
 
 Para acceder a la configuración de permisos de una aplicación, debe estar en la pantalla "Editar política" con la pestaña "Aplicaciones" seleccionada. Siga los siguientes pasos:
 
@@ -104,7 +104,7 @@ Después del paso 2 se mostrará la siguiente pantalla. La lista blanca, que se 
 
 Los permisos se pueden configurar como: Solicitar al usuario, Activada o Denegada.
 
-**Configuraciones Avanzadas**
+## **Configuraciones Avanzadas**
 
 Para acceder a la configuración avanzada de una aplicación, debe estar en la pantalla "Editar política" con la pestaña "Aplicaciones" seleccionada. Siga los siguientes pasos:
 
@@ -120,7 +120,7 @@ Después del paso 2 se mostrará la siguiente pantalla. En esta pantalla tenemos
 
 ![](<../../.gitbook/assets/7 (6).png>)
 
-**Eliminar Aplicación**
+## **Eliminar Aplicación**
 
 Para eliminar una aplicación de la directiva, debe estar en la pantalla "Editar política" con la pestaña "Aplicaciones" seleccionada. Siga los siguientes pasos:
 
