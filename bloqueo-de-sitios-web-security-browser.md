@@ -69,4 +69,4 @@ El bloqueo de sitios permite que el dispositivo se utilice para navegar en el tr
 
 8. Para realizar el bloqueo por categoría, pulse sobre los selectores para activar o desactivar el bloqueo de la categoría deseada. En la pantalla de abajo están bloqueadas las categorías: contenido adulto, contenido alcohólico, tabaco y compras.
 
-![](<.gitbook/assets/10 (6).png>)
+<figure><img src=".gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
