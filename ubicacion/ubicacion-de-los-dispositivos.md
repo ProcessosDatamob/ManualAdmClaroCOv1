@@ -6,7 +6,7 @@ Para ver y generar el reporte de las ubicaciones, siga los pasos descritos en es
 
 1. Haga clic en el menú "Ubicación" y seleccione el submenú "Ubicación de dispositivo".
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Captura de tela 2024-01-16 103502 (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Seleccione el usuario o las fechas que desea buscar para obtener información y haga clic en el botón Buscar;
 
@@ -20,11 +20,11 @@ Es importante destacar que la dirección mostrada puede cambiar al actualizar la
 
 3. Si desea ver la ubicación de un dispositivo específico, ingrese el número de dispositivo en el campo "Buscar";
 
-<figure><img src="../.gitbook/assets/Captura de tela 2023-11-03 093049.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Captura de tela 2024-01-16 103725.png" alt=""><figcaption></figcaption></figure>
 
 4. Para ordenar la información mostrada, haga clic en las flechas al lado del título de la información que desea ordenar. (Usuario, teléfono, Lat/Lng o fecha);
 5. Haga clic en el signo ">", que aparece al principio de la línea, para mostrar la dirección;
 6. Para exportar el reportee de ubicación, haga clic en el enlace "Excel";
 7. Para copiar la información del reporte de ubicación, haga clic en el enlace "Copiar";
 
-<figure><img src="../.gitbook/assets/Captura de tela 2023-11-03 093323.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Captura de tela 2024-01-16 103832.png" alt=""><figcaption></figcaption></figure>
