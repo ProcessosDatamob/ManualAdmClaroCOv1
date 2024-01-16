@@ -1,6 +1,6 @@
 # Acceder al portal
 
-Cuando el producto **\<NomeProduto**> es habilitado para una empresa, las siguientes tareas son ejecutadas por el sistema, para permitir el acceso del usuario administrador de la empresa al Portal:
+Cuando el producto **\<NomeProduto>** es habilitado para una empresa, las siguientes tareas son ejecutadas por el sistema, para permitir el acceso del usuario administrador de la empresa al Portal:
 
 * Creación de las credenciales del Portal de Administración;
 * Envío de un correo electrónico de bienvenida que contiene las credenciales y un enlace para acceder al Portal de Administración.
