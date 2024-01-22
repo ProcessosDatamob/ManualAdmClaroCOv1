@@ -8,10 +8,8 @@ Cuando el producto **\<NomeProduto>** es habilitado para una empresa, las siguie
 Para acceder al Portal de Administración, siga los pasos descritos en esta sección.
 
 1. Accede a la dirección \<EnderecoProduto> para ver la pantalla de acceso del Portal. De preferencia, utilice el navegador Google Chrome, con la versión más actualizada.
-2. Para cambiar el idioma del sistema, seleccione el idioma en la parte superior derecha de la pantalla. Los idiomas del sistema son español, portugués e inglés. \
-   Nota: Después de ingresar al portal, el idioma mostrado será aquel configurado en el registro del usuario. Para cambiar el idioma, se debe acceder al menú "Usuarios" y luego a "Gestionar Usuarios Administradores".
-3. Ingrese los campos "Correo electrónico" y "Contraseña" con las credenciales de acceso recibidas en el correo electrónico de bienvenida.
-4. Haga clic en "Iniciar sesión" para confirmar la información y acceder al Portal.
+2. Ingrese los campos "Correo electrónico" y "Contraseña" con las credenciales de acceso recibidas en el correo electrónico de bienvenida.
+3. Haga clic en "Iniciar sesión" para confirmar la información y acceder al Portal.
 
 ![](<../.gitbook/assets/0 (19).png>)
 
