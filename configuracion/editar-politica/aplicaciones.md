@@ -58,13 +58,9 @@ Las aplicaciones deben agregarse primero con Google Play Administrado.
 
 ### Manual
 
-Haga clic en la opción "Manual", y abrirá la pantalla "Agregar aplicaciones manualmente" Rellenar los campos: Nombre de la aplicación (opcional), Nombre del paquete y haga clic en "Agregar"
+Haga clic en la opción "Manual", y abrirá la pantalla "Agregar aplicaciones manualmente" Rellenar los campos: Nombre de la aplicación (opcional), Nombre del paquete y haga clic en "Agregar".
 
-{% hint style="info" %}
-OBSERVACIÓN
 
-Al crear una política con modo de administración Android Block SIM, automáticamente en la pestaña APLICACIONES, ya estará agregado la aplicación Block SIM con modo de instalación Forzada, es decir, cuando el usuario realice la activación de Vivo Administración Dispositivo utilizando esta política, ya se instalará automáticamente el Block SIM, sin necesidad de descargarlo en la Play Store.
-{% endhint %}
 
 ## **Configuraciones Administradas**
 

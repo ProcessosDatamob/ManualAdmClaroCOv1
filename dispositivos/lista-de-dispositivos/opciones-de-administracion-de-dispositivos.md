@@ -35,7 +35,7 @@ Haciendo clic en los tres puntos "..." a la derecha en la lista de dispositivos,
 
 Las opciones disponibles se muestran en la siguiente tabla:
 
-<table><thead><tr><th width="233">Modo de Gestión</th><th>Opciones disponibles</th></tr></thead><tbody><tr><td>Android</td><td><p>Historial de la Batería </p><p>Historial de Almacenamiento</p><p>Reporte de no Conformidad </p><p>Alterar Politica </p><p>Habilitar/ Deshabilitar el dispositivo</p><p>Apagar Pantalla </p><p>Reiniciar Dispositivo </p><p>Generar nueva contraseña de dispositivo </p><p>Remover dispositivo (WIPE)</p><p>Administrar Información</p></td></tr><tr><td>Android Block SIM</td><td><p>Historial de la Batería </p><p>Historial de Almacenamiento</p><p>Reporte de no Conformidad </p><p>Alterar Política </p><p>Habilitar/ Deshabilitar el dispositivo</p><p>Apagar Pantalla </p><p>Reiniciar Dispositivo </p><p>Quitar Bloqueo de Pantalla</p><p>Remover dispositivo (WIPE)</p><p>Administrar Información</p></td></tr></tbody></table>
+<table><thead><tr><th width="233">Modo de Gestión</th><th>Opciones disponibles</th></tr></thead><tbody><tr><td>Android</td><td><p>Historial de la Batería </p><p>Historial de Almacenamiento</p><p>Reporte de no Conformidad </p><p>Alterar Politica </p><p>Habilitar/ Deshabilitar el dispositivo</p><p>Apagar Pantalla </p><p>Reiniciar Dispositivo </p><p>Generar nueva contraseña de dispositivo </p><p>Remover dispositivo (WIPE)</p><p>Administrar Información</p></td></tr></tbody></table>
 
 Las opciones resaltadas en la figura se detallan en las siguientes subsecciones.
 
