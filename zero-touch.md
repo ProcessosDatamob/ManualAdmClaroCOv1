@@ -14,13 +14,13 @@ Vea la lista de dispositivos compatibles con Zero Touch:
 
 Para comenzar a usar Zero Touch, sigue estos pasos:
 
-1. Póngase en contacto con el Operador para adquirir los dispositivos (si es necesario) y solicitar la creación de la cuenta de cliente Zero Touch.
-2. Esperar a que Telcel cree su cuenta Zero-Touch.
+1. Póngase en contacto con el operador para adquirir los dispositivos (si es necesario) y solicitar la creación de la cuenta de cliente Zero Touch.
+2. Espera a que el operador haya creado su cuenta Zero Touch.
 3. Una vez creada la cuenta Zero-Touch, acceda al **\<NomeProduto>**, menú "Zero Touch" y enlace la cuenta con el **\<NomeProduto>** siguiendo el proceso después de seleccionar el botón "Siguiente" (ver pantalla abajo).
 
 ![](<.gitbook/assets/0 (24).png>)
 
-Inserte usuario y contraseña y confirme.
+4. Inserte usuario y contraseña y confirme.
 
 ### **Configurar los dispositivos para Zero-Touch**
 
