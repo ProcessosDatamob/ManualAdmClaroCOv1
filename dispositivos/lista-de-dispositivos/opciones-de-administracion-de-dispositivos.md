@@ -20,7 +20,7 @@ En la pantalla de "Dispositivos" dentro de "Lista de Dispositivos" se puede acce
 
 * Fecha de registro - fecha de registro de los dispositivos.
 * Modo de gestión - muestra el modo de gestión utilizado.
-* Versión de la aplicación - versión de la aplicación **\<NomeProduto>** instalado en el dispositivo.
+* Versión de la aplicación - versión de la aplicación **Claro Monitor Empresarial** instalado en el dispositivo.
 * Nombre de la Política en el Portal - nombre de la politica asignada al dispositivo.
 * Fecha de la última comunicación - mostrará la fecha en que el dispositivo se comunicó por última vez con el portal.
 
@@ -131,7 +131,7 @@ Además de poder editar los datos, se muestran más abajo en la pantalla dos lis
 ### **Información de Software**
 
 * Modo de gestión - muestra el modo de gestión utilizado.
-* Versión de la aplicación - versión de la aplicación **\<NomeProduto>** instalado en el dispositivo.
+* Versión de la aplicación - versión de la aplicación **Claro Monitor Empresarial** instalado en el dispositivo.
 * Fecha de la última actualización - fecha y hora en que la información del dispositivo se sincronizó con el portal. Esta fecha proviene de AMAPI (API de Google), es decir, es la información recopilada por la API de Google en el dispositivo.
 * Nombre de la Política en el Portal - nombre de la política asignada al dispositivo.
 
