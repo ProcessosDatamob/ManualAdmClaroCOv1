@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/claro.jpg
+coverY: 0
+---
+
 # INFORMACIÓN GENERAL
 
 El propósito de este manual es ayudar al usuario administrador en el uso y configuración del **Claro Monitor Empresarial**.
